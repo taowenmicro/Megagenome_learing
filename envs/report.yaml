@@ -1,0 +1,10 @@
+channels:
+  - r
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base==3.5.1
+  - rpy2==2.9.1
+  - r-rmarkdown==1.10
+  - pandoc==2.6
+  - r-plotly==4.8.0

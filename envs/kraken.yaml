@@ -1,0 +1,4 @@
+channels:
+  - bioconda
+dependencies:
+  - kraken==1.1

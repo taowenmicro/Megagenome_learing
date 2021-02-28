@@ -1,0 +1,4 @@
+channels:
+  - bioconda
+dependencies:
+  - bamm==1.7.3
