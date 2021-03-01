@@ -1,0 +1,1482 @@
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793599_1.fq.gz
+Input file:	./unpack/SUBERR793599_1.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:25:35 2021 >> started
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793599_1.fq.gz
+Input file:	./unpack/SUBERR793599_1.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:25:52 2021 >> started
+
+Mon Mar  1 08:25:53 2021 >> done (0.638s)
+7818 reads processed; of these:
+   0 ( 0.00%) short reads filtered out after trimming by size control
+   0 ( 0.00%) empty reads filtered out after trimming by size control
+7818 (100.00%) reads available; of these:
+  72 ( 0.92%)  reads available after processing
+7746 (99.08%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+294	   2	  0.03%
+295	   0	  0.00%
+296	   1	  0.01%
+297	  11	  0.14%
+298	  58	  0.74%
+299	   0	  0.00%
+300	   0	  0.00%
+301	7746	 99.08%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793599_2.fq.gz
+Input file:	./unpack/SUBERR793599_2.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:26:07 2021 >> started
+
+Mon Mar  1 08:26:07 2021 >> done (0.165s)
+7818 reads processed; of these:
+   0 ( 0.00%) short reads filtered out after trimming by size control
+   0 ( 0.00%) empty reads filtered out after trimming by size control
+7818 (100.00%) reads available; of these:
+  67 ( 0.86%)  reads available after processing
+7751 (99.14%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+275	   1	  0.01%
+276	   0	  0.00%
+277	   0	  0.00%
+278	   0	  0.00%
+279	   0	  0.00%
+280	   0	  0.00%
+281	   0	  0.00%
+282	   0	  0.00%
+283	   0	  0.00%
+284	   0	  0.00%
+285	   0	  0.00%
+286	   0	  0.00%
+287	   0	  0.00%
+288	   0	  0.00%
+289	   0	  0.00%
+290	   0	  0.00%
+291	   0	  0.00%
+292	   0	  0.00%
+293	   0	  0.00%
+294	   0	  0.00%
+295	   0	  0.00%
+296	   1	  0.01%
+297	   4	  0.05%
+298	  61	  0.78%
+299	   0	  0.00%
+300	   0	  0.00%
+301	7751	 99.14%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793599_2.fq.gz
+Input file:	./unpack/SUBERR793599_2.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:26:54 2021 >> started
+
+Mon Mar  1 08:26:54 2021 >> done (0.158s)
+7818 reads processed; of these:
+   0 ( 0.00%) short reads filtered out after trimming by size control
+   0 ( 0.00%) empty reads filtered out after trimming by size control
+7818 (100.00%) reads available; of these:
+  67 ( 0.86%)  reads available after processing
+7751 (99.14%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+275	   1	  0.01%
+276	   0	  0.00%
+277	   0	  0.00%
+278	   0	  0.00%
+279	   0	  0.00%
+280	   0	  0.00%
+281	   0	  0.00%
+282	   0	  0.00%
+283	   0	  0.00%
+284	   0	  0.00%
+285	   0	  0.00%
+286	   0	  0.00%
+287	   0	  0.00%
+288	   0	  0.00%
+289	   0	  0.00%
+290	   0	  0.00%
+291	   0	  0.00%
+292	   0	  0.00%
+293	   0	  0.00%
+294	   0	  0.00%
+295	   0	  0.00%
+296	   1	  0.01%
+297	   4	  0.05%
+298	  61	  0.78%
+299	   0	  0.00%
+300	   0	  0.00%
+301	7751	 99.14%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793599_1.fq.gz
+Input file:	./unpack/SUBERR793599_1.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:31:06 2021 >> started
+
+Mon Mar  1 08:31:06 2021 >> done (0.142s)
+7818 reads processed; of these:
+   0 ( 0.00%) short reads filtered out after trimming by size control
+   0 ( 0.00%) empty reads filtered out after trimming by size control
+7818 (100.00%) reads available; of these:
+  72 ( 0.92%)  reads available after processing
+7746 (99.08%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+294	   2	  0.03%
+295	   0	  0.00%
+296	   1	  0.01%
+297	  11	  0.14%
+298	  58	  0.74%
+299	   0	  0.00%
+300	   0	  0.00%
+301	7746	 99.08%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793599_2.fq.gz
+Input file:	./unpack/SUBERR793599_2.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:31:06 2021 >> started
+
+Mon Mar  1 08:31:06 2021 >> done (0.144s)
+7818 reads processed; of these:
+   0 ( 0.00%) short reads filtered out after trimming by size control
+   0 ( 0.00%) empty reads filtered out after trimming by size control
+7818 (100.00%) reads available; of these:
+  67 ( 0.86%)  reads available after processing
+7751 (99.14%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+275	   1	  0.01%
+276	   0	  0.00%
+277	   0	  0.00%
+278	   0	  0.00%
+279	   0	  0.00%
+280	   0	  0.00%
+281	   0	  0.00%
+282	   0	  0.00%
+283	   0	  0.00%
+284	   0	  0.00%
+285	   0	  0.00%
+286	   0	  0.00%
+287	   0	  0.00%
+288	   0	  0.00%
+289	   0	  0.00%
+290	   0	  0.00%
+291	   0	  0.00%
+292	   0	  0.00%
+293	   0	  0.00%
+294	   0	  0.00%
+295	   0	  0.00%
+296	   1	  0.01%
+297	   4	  0.05%
+298	  61	  0.78%
+299	   0	  0.00%
+300	   0	  0.00%
+301	7751	 99.14%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793600_1.fq.gz
+Input file:	./unpack/SUBERR793600_1.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:31:06 2021 >> started
+
+Mon Mar  1 08:31:07 2021 >> done (0.758s)
+15754 reads processed; of these:
+    0 ( 0.00%) short reads filtered out after trimming by size control
+    0 ( 0.00%) empty reads filtered out after trimming by size control
+15754 (100.00%) reads available; of these:
+  101 ( 0.64%)  reads available after processing
+15653 (99.36%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+277	    1	  0.01%
+278	    0	  0.00%
+279	    0	  0.00%
+280	    0	  0.00%
+281	    0	  0.00%
+282	    0	  0.00%
+283	    0	  0.00%
+284	    0	  0.00%
+285	    0	  0.00%
+286	    0	  0.00%
+287	    0	  0.00%
+288	    0	  0.00%
+289	    0	  0.00%
+290	    0	  0.00%
+291	    0	  0.00%
+292	    0	  0.00%
+293	    0	  0.00%
+294	    0	  0.00%
+295	    1	  0.01%
+296	    2	  0.01%
+297	   18	  0.11%
+298	   79	  0.50%
+299	    0	  0.00%
+300	    0	  0.00%
+301	15653	 99.36%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793600_2.fq.gz
+Input file:	./unpack/SUBERR793600_2.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:31:07 2021 >> started
+
+Mon Mar  1 08:31:08 2021 >> done (0.782s)
+15754 reads processed; of these:
+    0 ( 0.00%) short reads filtered out after trimming by size control
+    0 ( 0.00%) empty reads filtered out after trimming by size control
+15754 (100.00%) reads available; of these:
+  113 ( 0.72%)  reads available after processing
+15641 (99.28%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+182	    1	  0.01%
+183	    0	  0.00%
+184	    0	  0.00%
+185	    0	  0.00%
+186	    0	  0.00%
+187	    0	  0.00%
+188	    0	  0.00%
+189	    0	  0.00%
+190	    0	  0.00%
+191	    0	  0.00%
+192	    0	  0.00%
+193	    0	  0.00%
+194	    0	  0.00%
+195	    0	  0.00%
+196	    0	  0.00%
+197	    0	  0.00%
+198	    0	  0.00%
+199	    0	  0.00%
+200	    0	  0.00%
+201	    0	  0.00%
+202	    0	  0.00%
+203	    0	  0.00%
+204	    0	  0.00%
+205	    0	  0.00%
+206	    0	  0.00%
+207	    0	  0.00%
+208	    0	  0.00%
+209	    0	  0.00%
+210	    0	  0.00%
+211	    0	  0.00%
+212	    0	  0.00%
+213	    0	  0.00%
+214	    0	  0.00%
+215	    0	  0.00%
+216	    0	  0.00%
+217	    0	  0.00%
+218	    0	  0.00%
+219	    0	  0.00%
+220	    0	  0.00%
+221	    0	  0.00%
+222	    0	  0.00%
+223	    0	  0.00%
+224	    0	  0.00%
+225	    0	  0.00%
+226	    0	  0.00%
+227	    0	  0.00%
+228	    0	  0.00%
+229	    0	  0.00%
+230	    0	  0.00%
+231	    0	  0.00%
+232	    0	  0.00%
+233	    0	  0.00%
+234	    0	  0.00%
+235	    0	  0.00%
+236	    0	  0.00%
+237	    0	  0.00%
+238	    0	  0.00%
+239	    0	  0.00%
+240	    0	  0.00%
+241	    0	  0.00%
+242	    0	  0.00%
+243	    0	  0.00%
+244	    0	  0.00%
+245	    0	  0.00%
+246	    0	  0.00%
+247	    0	  0.00%
+248	    0	  0.00%
+249	    0	  0.00%
+250	    0	  0.00%
+251	    0	  0.00%
+252	    0	  0.00%
+253	    0	  0.00%
+254	    0	  0.00%
+255	    0	  0.00%
+256	    0	  0.00%
+257	    0	  0.00%
+258	    0	  0.00%
+259	    0	  0.00%
+260	    0	  0.00%
+261	    0	  0.00%
+262	    0	  0.00%
+263	    0	  0.00%
+264	    0	  0.00%
+265	    0	  0.00%
+266	    0	  0.00%
+267	    0	  0.00%
+268	    0	  0.00%
+269	    0	  0.00%
+270	    0	  0.00%
+271	    1	  0.01%
+272	    0	  0.00%
+273	    0	  0.00%
+274	    0	  0.00%
+275	    1	  0.01%
+276	    0	  0.00%
+277	    0	  0.00%
+278	    0	  0.00%
+279	    0	  0.00%
+280	    0	  0.00%
+281	    0	  0.00%
+282	    0	  0.00%
+283	    0	  0.00%
+284	    0	  0.00%
+285	    0	  0.00%
+286	    0	  0.00%
+287	    0	  0.00%
+288	    0	  0.00%
+289	    0	  0.00%
+290	    1	  0.01%
+291	    0	  0.00%
+292	    0	  0.00%
+293	    0	  0.00%
+294	    0	  0.00%
+295	    2	  0.01%
+296	    2	  0.01%
+297	   13	  0.08%
+298	   92	  0.58%
+299	    0	  0.00%
+300	    0	  0.00%
+301	15641	 99.28%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793601_1.fq.gz
+Input file:	./unpack/SUBERR793601_1.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:31:08 2021 >> started
+
+Mon Mar  1 08:31:09 2021 >> done (0.664s)
+11768 reads processed; of these:
+    0 ( 0.00%) short reads filtered out after trimming by size control
+    0 ( 0.00%) empty reads filtered out after trimming by size control
+11768 (100.00%) reads available; of these:
+   84 ( 0.71%)  reads available after processing
+11684 (99.29%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+295	    1	  0.01%
+296	    3	  0.03%
+297	    9	  0.08%
+298	   71	  0.60%
+299	    0	  0.00%
+300	    0	  0.00%
+301	11684	 99.29%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793601_2.fq.gz
+Input file:	./unpack/SUBERR793601_2.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:31:09 2021 >> started
+
+Mon Mar  1 08:31:09 2021 >> done (0.210s)
+11768 reads processed; of these:
+    0 ( 0.00%) short reads filtered out after trimming by size control
+    0 ( 0.00%) empty reads filtered out after trimming by size control
+11768 (100.00%) reads available; of these:
+   99 ( 0.84%)  reads available after processing
+11669 (99.16%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+294	    1	  0.01%
+295	    3	  0.03%
+296	    3	  0.03%
+297	   16	  0.14%
+298	   76	  0.65%
+299	    0	  0.00%
+300	    0	  0.00%
+301	11669	 99.16%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793603_1.fq.gz
+Input file:	./unpack/SUBERR793603_1.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:31:09 2021 >> started
+
+Mon Mar  1 08:31:09 2021 >> done (0.183s)
+13060 reads processed; of these:
+    0 ( 0.00%) short reads filtered out after trimming by size control
+    0 ( 0.00%) empty reads filtered out after trimming by size control
+13060 (100.00%) reads available; of these:
+  119 ( 0.91%)  reads available after processing
+12941 (99.09%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+275	    1	  0.01%
+276	    0	  0.00%
+277	    1	  0.01%
+278	    0	  0.00%
+279	    0	  0.00%
+280	    0	  0.00%
+281	    0	  0.00%
+282	    0	  0.00%
+283	    0	  0.00%
+284	    0	  0.00%
+285	    0	  0.00%
+286	    0	  0.00%
+287	    0	  0.00%
+288	    0	  0.00%
+289	    0	  0.00%
+290	    0	  0.00%
+291	    0	  0.00%
+292	    0	  0.00%
+293	    0	  0.00%
+294	    0	  0.00%
+295	    1	  0.01%
+296	    7	  0.05%
+297	   19	  0.15%
+298	   90	  0.69%
+299	    0	  0.00%
+300	    0	  0.00%
+301	12941	 99.09%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793603_2.fq.gz
+Input file:	./unpack/SUBERR793603_2.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:31:09 2021 >> started
+
+Mon Mar  1 08:31:10 2021 >> done (0.752s)
+13060 reads processed; of these:
+    0 ( 0.00%) short reads filtered out after trimming by size control
+    0 ( 0.00%) empty reads filtered out after trimming by size control
+13060 (100.00%) reads available; of these:
+  117 ( 0.90%)  reads available after processing
+12943 (99.10%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+293	    1	  0.01%
+294	    0	  0.00%
+295	    4	  0.03%
+296	    2	  0.02%
+297	   18	  0.14%
+298	   92	  0.70%
+299	    0	  0.00%
+300	    0	  0.00%
+301	12943	 99.10%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793604_1.fq.gz
+Input file:	./unpack/SUBERR793604_1.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:31:11 2021 >> started
+
+Mon Mar  1 08:31:11 2021 >> done (0.215s)
+13089 reads processed; of these:
+    1 ( 0.01%) short reads filtered out after trimming by size control
+    0 ( 0.00%) empty reads filtered out after trimming by size control
+13088 (99.99%) reads available; of these:
+  110 ( 0.84%)  reads available after processing
+12978 (99.16%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+295	    2	  0.02%
+296	    3	  0.02%
+297	   14	  0.11%
+298	   91	  0.70%
+299	    0	  0.00%
+300	    0	  0.00%
+301	12978	 99.16%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793604_2.fq.gz
+Input file:	./unpack/SUBERR793604_2.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:31:11 2021 >> started
+
+Mon Mar  1 08:31:12 2021 >> done (0.743s)
+13089 reads processed; of these:
+    0 ( 0.00%) short reads filtered out after trimming by size control
+    0 ( 0.00%) empty reads filtered out after trimming by size control
+13089 (100.00%) reads available; of these:
+  136 ( 1.04%)  reads available after processing
+12953 (98.96%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+275	    1	  0.01%
+276	    0	  0.00%
+277	    0	  0.00%
+278	    0	  0.00%
+279	    0	  0.00%
+280	    0	  0.00%
+281	    0	  0.00%
+282	    0	  0.00%
+283	    0	  0.00%
+284	    0	  0.00%
+285	    0	  0.00%
+286	    0	  0.00%
+287	    0	  0.00%
+288	    0	  0.00%
+289	    0	  0.00%
+290	    0	  0.00%
+291	    0	  0.00%
+292	    0	  0.00%
+293	    0	  0.00%
+294	    2	  0.02%
+295	    5	  0.04%
+296	    2	  0.02%
+297	    6	  0.05%
+298	  120	  0.92%
+299	    0	  0.00%
+300	    0	  0.00%
+301	12953	 98.96%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793605_1.fq.gz
+Input file:	./unpack/SUBERR793605_1.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:31:12 2021 >> started
+
+Mon Mar  1 08:31:12 2021 >> done (0.231s)
+14452 reads processed; of these:
+    0 ( 0.00%) short reads filtered out after trimming by size control
+    0 ( 0.00%) empty reads filtered out after trimming by size control
+14452 (100.00%) reads available; of these:
+  110 ( 0.76%)  reads available after processing
+14342 (99.24%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+ 74	    1	  0.01%
+ 75	    0	  0.00%
+ 76	    0	  0.00%
+ 77	    0	  0.00%
+ 78	    0	  0.00%
+ 79	    0	  0.00%
+ 80	    0	  0.00%
+ 81	    0	  0.00%
+ 82	    0	  0.00%
+ 83	    0	  0.00%
+ 84	    0	  0.00%
+ 85	    0	  0.00%
+ 86	    0	  0.00%
+ 87	    0	  0.00%
+ 88	    0	  0.00%
+ 89	    0	  0.00%
+ 90	    0	  0.00%
+ 91	    0	  0.00%
+ 92	    0	  0.00%
+ 93	    0	  0.00%
+ 94	    0	  0.00%
+ 95	    0	  0.00%
+ 96	    0	  0.00%
+ 97	    0	  0.00%
+ 98	    0	  0.00%
+ 99	    0	  0.00%
+100	    0	  0.00%
+101	    0	  0.00%
+102	    0	  0.00%
+103	    0	  0.00%
+104	    0	  0.00%
+105	    0	  0.00%
+106	    0	  0.00%
+107	    0	  0.00%
+108	    0	  0.00%
+109	    0	  0.00%
+110	    0	  0.00%
+111	    0	  0.00%
+112	    0	  0.00%
+113	    0	  0.00%
+114	    0	  0.00%
+115	    0	  0.00%
+116	    0	  0.00%
+117	    0	  0.00%
+118	    0	  0.00%
+119	    0	  0.00%
+120	    0	  0.00%
+121	    0	  0.00%
+122	    0	  0.00%
+123	    0	  0.00%
+124	    0	  0.00%
+125	    0	  0.00%
+126	    0	  0.00%
+127	    0	  0.00%
+128	    0	  0.00%
+129	    0	  0.00%
+130	    0	  0.00%
+131	    0	  0.00%
+132	    0	  0.00%
+133	    0	  0.00%
+134	    0	  0.00%
+135	    0	  0.00%
+136	    0	  0.00%
+137	    0	  0.00%
+138	    0	  0.00%
+139	    0	  0.00%
+140	    0	  0.00%
+141	    0	  0.00%
+142	    0	  0.00%
+143	    0	  0.00%
+144	    0	  0.00%
+145	    0	  0.00%
+146	    0	  0.00%
+147	    0	  0.00%
+148	    0	  0.00%
+149	    0	  0.00%
+150	    0	  0.00%
+151	    0	  0.00%
+152	    0	  0.00%
+153	    0	  0.00%
+154	    0	  0.00%
+155	    0	  0.00%
+156	    0	  0.00%
+157	    0	  0.00%
+158	    0	  0.00%
+159	    0	  0.00%
+160	    0	  0.00%
+161	    0	  0.00%
+162	    0	  0.00%
+163	    0	  0.00%
+164	    0	  0.00%
+165	    0	  0.00%
+166	    0	  0.00%
+167	    0	  0.00%
+168	    0	  0.00%
+169	    0	  0.00%
+170	    0	  0.00%
+171	    0	  0.00%
+172	    0	  0.00%
+173	    0	  0.00%
+174	    0	  0.00%
+175	    0	  0.00%
+176	    0	  0.00%
+177	    0	  0.00%
+178	    0	  0.00%
+179	    0	  0.00%
+180	    0	  0.00%
+181	    0	  0.00%
+182	    0	  0.00%
+183	    0	  0.00%
+184	    0	  0.00%
+185	    0	  0.00%
+186	    0	  0.00%
+187	    0	  0.00%
+188	    0	  0.00%
+189	    0	  0.00%
+190	    0	  0.00%
+191	    0	  0.00%
+192	    0	  0.00%
+193	    0	  0.00%
+194	    0	  0.00%
+195	    0	  0.00%
+196	    0	  0.00%
+197	    0	  0.00%
+198	    0	  0.00%
+199	    0	  0.00%
+200	    0	  0.00%
+201	    0	  0.00%
+202	    0	  0.00%
+203	    0	  0.00%
+204	    0	  0.00%
+205	    0	  0.00%
+206	    0	  0.00%
+207	    0	  0.00%
+208	    0	  0.00%
+209	    0	  0.00%
+210	    0	  0.00%
+211	    0	  0.00%
+212	    0	  0.00%
+213	    0	  0.00%
+214	    0	  0.00%
+215	    0	  0.00%
+216	    0	  0.00%
+217	    0	  0.00%
+218	    0	  0.00%
+219	    0	  0.00%
+220	    0	  0.00%
+221	    0	  0.00%
+222	    0	  0.00%
+223	    0	  0.00%
+224	    0	  0.00%
+225	    0	  0.00%
+226	    0	  0.00%
+227	    0	  0.00%
+228	    0	  0.00%
+229	    0	  0.00%
+230	    0	  0.00%
+231	    0	  0.00%
+232	    0	  0.00%
+233	    0	  0.00%
+234	    0	  0.00%
+235	    0	  0.00%
+236	    0	  0.00%
+237	    0	  0.00%
+238	    0	  0.00%
+239	    0	  0.00%
+240	    0	  0.00%
+241	    0	  0.00%
+242	    0	  0.00%
+243	    0	  0.00%
+244	    0	  0.00%
+245	    0	  0.00%
+246	    0	  0.00%
+247	    0	  0.00%
+248	    0	  0.00%
+249	    0	  0.00%
+250	    0	  0.00%
+251	    0	  0.00%
+252	    0	  0.00%
+253	    0	  0.00%
+254	    0	  0.00%
+255	    0	  0.00%
+256	    0	  0.00%
+257	    0	  0.00%
+258	    0	  0.00%
+259	    0	  0.00%
+260	    0	  0.00%
+261	    0	  0.00%
+262	    0	  0.00%
+263	    0	  0.00%
+264	    0	  0.00%
+265	    0	  0.00%
+266	    0	  0.00%
+267	    0	  0.00%
+268	    0	  0.00%
+269	    0	  0.00%
+270	    0	  0.00%
+271	    0	  0.00%
+272	    0	  0.00%
+273	    0	  0.00%
+274	    0	  0.00%
+275	    0	  0.00%
+276	    0	  0.00%
+277	    0	  0.00%
+278	    0	  0.00%
+279	    0	  0.00%
+280	    0	  0.00%
+281	    0	  0.00%
+282	    0	  0.00%
+283	    0	  0.00%
+284	    0	  0.00%
+285	    0	  0.00%
+286	    0	  0.00%
+287	    0	  0.00%
+288	    0	  0.00%
+289	    0	  0.00%
+290	    0	  0.00%
+291	    0	  0.00%
+292	    0	  0.00%
+293	    0	  0.00%
+294	    0	  0.00%
+295	    3	  0.02%
+296	    2	  0.01%
+297	   12	  0.08%
+298	   92	  0.64%
+299	    0	  0.00%
+300	    0	  0.00%
+301	14342	 99.24%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793605_2.fq.gz
+Input file:	./unpack/SUBERR793605_2.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:31:12 2021 >> started
+
+Mon Mar  1 08:31:13 2021 >> done (0.761s)
+14452 reads processed; of these:
+    0 ( 0.00%) short reads filtered out after trimming by size control
+    0 ( 0.00%) empty reads filtered out after trimming by size control
+14452 (100.00%) reads available; of these:
+  127 ( 0.88%)  reads available after processing
+14325 (99.12%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+295	    7	  0.05%
+296	    5	  0.03%
+297	   18	  0.12%
+298	   97	  0.67%
+299	    0	  0.00%
+300	    0	  0.00%
+301	14325	 99.12%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793606_1.fq.gz
+Input file:	./unpack/SUBERR793606_1.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:31:13 2021 >> started
+
+Mon Mar  1 08:31:14 2021 >> done (0.236s)
+12528 reads processed; of these:
+    0 ( 0.00%) short reads filtered out after trimming by size control
+    0 ( 0.00%) empty reads filtered out after trimming by size control
+12528 (100.00%) reads available; of these:
+  122 ( 0.97%)  reads available after processing
+12406 (99.03%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+277	    1	  0.01%
+278	    0	  0.00%
+279	    0	  0.00%
+280	    0	  0.00%
+281	    0	  0.00%
+282	    0	  0.00%
+283	    0	  0.00%
+284	    0	  0.00%
+285	    0	  0.00%
+286	    0	  0.00%
+287	    0	  0.00%
+288	    0	  0.00%
+289	    0	  0.00%
+290	    0	  0.00%
+291	    0	  0.00%
+292	    0	  0.00%
+293	    0	  0.00%
+294	    0	  0.00%
+295	    1	  0.01%
+296	    6	  0.05%
+297	   11	  0.09%
+298	  103	  0.82%
+299	    0	  0.00%
+300	    0	  0.00%
+301	12406	 99.03%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793606_2.fq.gz
+Input file:	./unpack/SUBERR793606_2.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:31:14 2021 >> started
+
+Mon Mar  1 08:31:14 2021 >> done (0.227s)
+12528 reads processed; of these:
+    0 ( 0.00%) short reads filtered out after trimming by size control
+    0 ( 0.00%) empty reads filtered out after trimming by size control
+12528 (100.00%) reads available; of these:
+  120 ( 0.96%)  reads available after processing
+12408 (99.04%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+272	    1	  0.01%
+273	    0	  0.00%
+274	    0	  0.00%
+275	    0	  0.00%
+276	    0	  0.00%
+277	    0	  0.00%
+278	    0	  0.00%
+279	    1	  0.01%
+280	    0	  0.00%
+281	    0	  0.00%
+282	    0	  0.00%
+283	    0	  0.00%
+284	    0	  0.00%
+285	    0	  0.00%
+286	    0	  0.00%
+287	    0	  0.00%
+288	    0	  0.00%
+289	    0	  0.00%
+290	    0	  0.00%
+291	    0	  0.00%
+292	    0	  0.00%
+293	    0	  0.00%
+294	    1	  0.01%
+295	    1	  0.01%
+296	    2	  0.02%
+297	   12	  0.10%
+298	  102	  0.81%
+299	    0	  0.00%
+300	    0	  0.00%
+301	12408	 99.04%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793607_1.fq.gz
+Input file:	./unpack/SUBERR793607_1.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:31:14 2021 >> started
+
+Mon Mar  1 08:31:15 2021 >> done (0.524s)
+11635 reads processed; of these:
+    0 ( 0.00%) short reads filtered out after trimming by size control
+    0 ( 0.00%) empty reads filtered out after trimming by size control
+11635 (100.00%) reads available; of these:
+  115 ( 0.99%)  reads available after processing
+11520 (99.01%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+274	    1	  0.01%
+275	    0	  0.00%
+276	    0	  0.00%
+277	    0	  0.00%
+278	    0	  0.00%
+279	    0	  0.00%
+280	    0	  0.00%
+281	    0	  0.00%
+282	    0	  0.00%
+283	    0	  0.00%
+284	    0	  0.00%
+285	    0	  0.00%
+286	    0	  0.00%
+287	    0	  0.00%
+288	    0	  0.00%
+289	    0	  0.00%
+290	    1	  0.01%
+291	    0	  0.00%
+292	    0	  0.00%
+293	    0	  0.00%
+294	    1	  0.01%
+295	    1	  0.01%
+296	    4	  0.03%
+297	   17	  0.15%
+298	   90	  0.77%
+299	    0	  0.00%
+300	    0	  0.00%
+301	11520	 99.01%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793607_2.fq.gz
+Input file:	./unpack/SUBERR793607_2.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:31:15 2021 >> started
+
+Mon Mar  1 08:31:15 2021 >> done (0.498s)
+11635 reads processed; of these:
+    0 ( 0.00%) short reads filtered out after trimming by size control
+    0 ( 0.00%) empty reads filtered out after trimming by size control
+11635 (100.00%) reads available; of these:
+  119 ( 1.02%)  reads available after processing
+11516 (98.98%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+ 39	    1	  0.01%
+ 40	    0	  0.00%
+ 41	    0	  0.00%
+ 42	    0	  0.00%
+ 43	    0	  0.00%
+ 44	    0	  0.00%
+ 45	    0	  0.00%
+ 46	    0	  0.00%
+ 47	    0	  0.00%
+ 48	    0	  0.00%
+ 49	    0	  0.00%
+ 50	    0	  0.00%
+ 51	    0	  0.00%
+ 52	    0	  0.00%
+ 53	    0	  0.00%
+ 54	    0	  0.00%
+ 55	    0	  0.00%
+ 56	    0	  0.00%
+ 57	    0	  0.00%
+ 58	    0	  0.00%
+ 59	    0	  0.00%
+ 60	    0	  0.00%
+ 61	    0	  0.00%
+ 62	    0	  0.00%
+ 63	    0	  0.00%
+ 64	    0	  0.00%
+ 65	    0	  0.00%
+ 66	    0	  0.00%
+ 67	    0	  0.00%
+ 68	    0	  0.00%
+ 69	    0	  0.00%
+ 70	    0	  0.00%
+ 71	    0	  0.00%
+ 72	    0	  0.00%
+ 73	    0	  0.00%
+ 74	    0	  0.00%
+ 75	    0	  0.00%
+ 76	    0	  0.00%
+ 77	    0	  0.00%
+ 78	    0	  0.00%
+ 79	    0	  0.00%
+ 80	    0	  0.00%
+ 81	    0	  0.00%
+ 82	    0	  0.00%
+ 83	    0	  0.00%
+ 84	    0	  0.00%
+ 85	    0	  0.00%
+ 86	    0	  0.00%
+ 87	    0	  0.00%
+ 88	    0	  0.00%
+ 89	    0	  0.00%
+ 90	    0	  0.00%
+ 91	    0	  0.00%
+ 92	    0	  0.00%
+ 93	    0	  0.00%
+ 94	    0	  0.00%
+ 95	    0	  0.00%
+ 96	    0	  0.00%
+ 97	    0	  0.00%
+ 98	    0	  0.00%
+ 99	    0	  0.00%
+100	    0	  0.00%
+101	    0	  0.00%
+102	    0	  0.00%
+103	    0	  0.00%
+104	    0	  0.00%
+105	    0	  0.00%
+106	    0	  0.00%
+107	    0	  0.00%
+108	    0	  0.00%
+109	    0	  0.00%
+110	    0	  0.00%
+111	    0	  0.00%
+112	    0	  0.00%
+113	    0	  0.00%
+114	    0	  0.00%
+115	    0	  0.00%
+116	    0	  0.00%
+117	    0	  0.00%
+118	    0	  0.00%
+119	    0	  0.00%
+120	    0	  0.00%
+121	    0	  0.00%
+122	    0	  0.00%
+123	    0	  0.00%
+124	    0	  0.00%
+125	    0	  0.00%
+126	    0	  0.00%
+127	    0	  0.00%
+128	    0	  0.00%
+129	    0	  0.00%
+130	    0	  0.00%
+131	    0	  0.00%
+132	    0	  0.00%
+133	    0	  0.00%
+134	    0	  0.00%
+135	    0	  0.00%
+136	    0	  0.00%
+137	    0	  0.00%
+138	    0	  0.00%
+139	    0	  0.00%
+140	    0	  0.00%
+141	    0	  0.00%
+142	    0	  0.00%
+143	    0	  0.00%
+144	    0	  0.00%
+145	    0	  0.00%
+146	    0	  0.00%
+147	    0	  0.00%
+148	    0	  0.00%
+149	    0	  0.00%
+150	    0	  0.00%
+151	    0	  0.00%
+152	    0	  0.00%
+153	    0	  0.00%
+154	    0	  0.00%
+155	    1	  0.01%
+156	    0	  0.00%
+157	    0	  0.00%
+158	    0	  0.00%
+159	    0	  0.00%
+160	    0	  0.00%
+161	    0	  0.00%
+162	    0	  0.00%
+163	    0	  0.00%
+164	    0	  0.00%
+165	    0	  0.00%
+166	    0	  0.00%
+167	    0	  0.00%
+168	    0	  0.00%
+169	    0	  0.00%
+170	    0	  0.00%
+171	    0	  0.00%
+172	    0	  0.00%
+173	    0	  0.00%
+174	    0	  0.00%
+175	    0	  0.00%
+176	    0	  0.00%
+177	    0	  0.00%
+178	    0	  0.00%
+179	    0	  0.00%
+180	    0	  0.00%
+181	    0	  0.00%
+182	    0	  0.00%
+183	    0	  0.00%
+184	    0	  0.00%
+185	    0	  0.00%
+186	    0	  0.00%
+187	    0	  0.00%
+188	    0	  0.00%
+189	    0	  0.00%
+190	    0	  0.00%
+191	    0	  0.00%
+192	    0	  0.00%
+193	    0	  0.00%
+194	    0	  0.00%
+195	    0	  0.00%
+196	    0	  0.00%
+197	    0	  0.00%
+198	    0	  0.00%
+199	    0	  0.00%
+200	    0	  0.00%
+201	    0	  0.00%
+202	    0	  0.00%
+203	    0	  0.00%
+204	    0	  0.00%
+205	    0	  0.00%
+206	    0	  0.00%
+207	    0	  0.00%
+208	    0	  0.00%
+209	    0	  0.00%
+210	    0	  0.00%
+211	    0	  0.00%
+212	    0	  0.00%
+213	    0	  0.00%
+214	    0	  0.00%
+215	    0	  0.00%
+216	    0	  0.00%
+217	    0	  0.00%
+218	    0	  0.00%
+219	    0	  0.00%
+220	    0	  0.00%
+221	    0	  0.00%
+222	    0	  0.00%
+223	    0	  0.00%
+224	    0	  0.00%
+225	    0	  0.00%
+226	    0	  0.00%
+227	    0	  0.00%
+228	    0	  0.00%
+229	    0	  0.00%
+230	    0	  0.00%
+231	    0	  0.00%
+232	    0	  0.00%
+233	    0	  0.00%
+234	    0	  0.00%
+235	    0	  0.00%
+236	    0	  0.00%
+237	    0	  0.00%
+238	    0	  0.00%
+239	    0	  0.00%
+240	    0	  0.00%
+241	    0	  0.00%
+242	    0	  0.00%
+243	    0	  0.00%
+244	    0	  0.00%
+245	    0	  0.00%
+246	    0	  0.00%
+247	    0	  0.00%
+248	    0	  0.00%
+249	    0	  0.00%
+250	    0	  0.00%
+251	    0	  0.00%
+252	    0	  0.00%
+253	    0	  0.00%
+254	    0	  0.00%
+255	    0	  0.00%
+256	    0	  0.00%
+257	    0	  0.00%
+258	    0	  0.00%
+259	    0	  0.00%
+260	    0	  0.00%
+261	    0	  0.00%
+262	    0	  0.00%
+263	    0	  0.00%
+264	    0	  0.00%
+265	    0	  0.00%
+266	    0	  0.00%
+267	    0	  0.00%
+268	    0	  0.00%
+269	    0	  0.00%
+270	    0	  0.00%
+271	    1	  0.01%
+272	    0	  0.00%
+273	    0	  0.00%
+274	    0	  0.00%
+275	    0	  0.00%
+276	    0	  0.00%
+277	    0	  0.00%
+278	    0	  0.00%
+279	    0	  0.00%
+280	    0	  0.00%
+281	    0	  0.00%
+282	    0	  0.00%
+283	    0	  0.00%
+284	    0	  0.00%
+285	    0	  0.00%
+286	    0	  0.00%
+287	    0	  0.00%
+288	    0	  0.00%
+289	    0	  0.00%
+290	    0	  0.00%
+291	    0	  0.00%
+292	    0	  0.00%
+293	    0	  0.00%
+294	    0	  0.00%
+295	    3	  0.03%
+296	    3	  0.03%
+297	   10	  0.09%
+298	  100	  0.86%
+299	    0	  0.00%
+300	    0	  0.00%
+301	11516	 98.98%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793608_1.fq.gz
+Input file:	./unpack/SUBERR793608_1.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:31:15 2021 >> started
+
+Mon Mar  1 08:31:16 2021 >> done (0.682s)
+13075 reads processed; of these:
+    0 ( 0.00%) short reads filtered out after trimming by size control
+    0 ( 0.00%) empty reads filtered out after trimming by size control
+13075 (100.00%) reads available; of these:
+  101 ( 0.77%)  reads available after processing
+12974 (99.23%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+295	    2	  0.02%
+296	    2	  0.02%
+297	   15	  0.11%
+298	   82	  0.63%
+299	    0	  0.00%
+300	    0	  0.00%
+301	12974	 99.23%
+skewer v0.2.2 [April 4, 2016]
+COMMAND LINE:	skewer -x AGATGTGTATAAGAGACAG -m head -1 -t 6 --quiet ./unpack/SUBERR793608_2.fq.gz
+Input file:	./unpack/SUBERR793608_2.fq.gz
+:	STDOUT
+
+Parameters used:
+-- 5' end adapter sequence (-x):	AGATGTGTATAAGAGACAG
+-- maximum error ratio allowed (-r):	0.100
+-- maximum indel error ratio allowed (-d):	0.030
+-- minimum read length allowed after trimming (-l):	18
+-- file format (-f):		Sanger/Illumina 1.8+ FASTQ (auto detected)
+-- minimum overlap length for adapter detection (-k):	3
+-- number of concurrent threads (-t):	6
+Mon Mar  1 08:31:16 2021 >> started
+
+Mon Mar  1 08:31:16 2021 >> done (0.212s)
+13075 reads processed; of these:
+    0 ( 0.00%) short reads filtered out after trimming by size control
+    0 ( 0.00%) empty reads filtered out after trimming by size control
+13075 (100.00%) reads available; of these:
+  100 ( 0.76%)  reads available after processing
+12975 (99.24%) un reads available after processing
+
+Length distribution of reads after trimming:
+length	count	percentage
+274	    1	  0.01%
+275	    0	  0.00%
+276	    0	  0.00%
+277	    0	  0.00%
+278	    0	  0.00%
+279	    0	  0.00%
+280	    0	  0.00%
+281	    0	  0.00%
+282	    0	  0.00%
+283	    0	  0.00%
+284	    0	  0.00%
+285	    0	  0.00%
+286	    0	  0.00%
+287	    0	  0.00%
+288	    0	  0.00%
+289	    0	  0.00%
+290	    0	  0.00%
+291	    0	  0.00%
+292	    0	  0.00%
+293	    0	  0.00%
+294	    0	  0.00%
+295	    2	  0.02%
+296	    2	  0.02%
+297	   17	  0.13%
+298	   78	  0.60%
+299	    0	  0.00%
+300	    0	  0.00%
+301	12975	 99.24%
