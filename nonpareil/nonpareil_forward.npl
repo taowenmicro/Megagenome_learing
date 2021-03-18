@@ -1,0 +1,45 @@
+ [      0.1]  reading ./treatment/nonpareil_forward.fastq
+ [      0.1]  Picking 10000 random sequences
+ [      0.1]  Started counting
+ [      0.8]  Read file with 466724 sequences
+ [      0.8]  Average read length is 253.121177bp
+ [      0.8]  Sub-sampling library
+ [      0.8]     Sampling at 0.000000%
+ [      0.9]     Sampling at 0.000379%
+ [      0.9]     Sampling at 0.000541%
+ [      1.0]     Sampling at 0.000773%
+ [      1.1]     Sampling at 0.001104%
+ [      1.1]     Sampling at 0.001578%
+ [      1.2]     Sampling at 0.002254%
+ [      1.2]     Sampling at 0.003220%
+ [      1.3]     Sampling at 0.004600%
+ [      1.4]     Sampling at 0.006571%
+ [      1.4]     Sampling at 0.009387%
+ [      1.5]     Sampling at 0.013411%
+ [      1.6]     Sampling at 0.019158%
+ [      1.6]     Sampling at 0.027369%
+ [      1.7]     Sampling at 0.039098%
+ [      1.7]     Sampling at 0.055855%
+ [      1.8]     Sampling at 0.079792%
+ [      1.9]     Sampling at 0.113989%
+ [      1.9]     Sampling at 0.162841%
+ [      2.0]     Sampling at 0.232631%
+ [      2.0]     Sampling at 0.332329%
+ [      2.1]     Sampling at 0.474756%
+ [      2.1]     Sampling at 0.678223%
+ [      2.2]     Sampling at 0.968890%
+ [      2.3]     Sampling at 1.384129%
+ [      2.3]     Sampling at 1.977327%
+ [      2.4]     Sampling at 2.824752%
+ [      2.4]     Sampling at 4.035361%
+ [      2.5]     Sampling at 5.764801%
+ [      2.6]     Sampling at 8.235430%
+ [      2.6]     Sampling at 11.764900%
+ [      2.7]     Sampling at 16.807000%
+ [      2.8]     Sampling at 24.010000%
+ [      2.9]     Sampling at 34.300000%
+ [      3.1]     Sampling at 49.000000%
+ [      3.2]     Sampling at 70.000000%
+ [      3.4]     Sampling at 100.000000%
+ [      3.6]  Evaluating consistency
+ [      3.6]  Everything seems correct
