@@ -1,0 +1,842 @@
+"SEED","SUBERR793600"
+"SEED;Amino Acids and Derivatives;Alanine biosynthesis;Alanine racemase (EC 5.1.1.1);",2
+"SEED;Amino Acids and Derivatives;Alanine biosynthesis;Cysteine desulfurase (EC 2.8.1.7), SufS subfamily;",1
+"SEED;Amino Acids and Derivatives;Alanine, serine, glycine metabolism in plants;Cysteine desulfurase (EC 2.8.1.7), SufS subfamily;",1
+"SEED;Amino Acids and Derivatives;Alanine, serine, glycine metabolism in plants;D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95);",3
+"SEED;Amino Acids and Derivatives;Amino acid racemase;Alanine racemase (EC 5.1.1.1);",2
+"SEED;Amino Acids and Derivatives;Arginine and Ornithine Degradation;Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.5.1.12);",1
+"SEED;Amino Acids and Derivatives;Arginine Biosynthesis extended;Acetylglutamate kinase (EC 2.7.2.8);",1
+"SEED;Amino Acids and Derivatives;Arginine Biosynthesis extended;Acetylornithine deacetylase (EC 3.5.1.16);",1
+"SEED;Amino Acids and Derivatives;Arginine Biosynthesis extended;Argininosuccinate lyase (EC 4.3.2.1);",1
+"SEED;Amino Acids and Derivatives;Arginine Biosynthesis extended;Argininosuccinate synthase (EC 6.3.4.5);",1
+"SEED;Amino Acids and Derivatives;Arginine Biosynthesis extended;Predicted arginine uptake transporter;",1
+"SEED;Amino Acids and Derivatives;Arginine deiminase and agmatine deiminase pathways in Streptococci;Aspartate aminotransferase (EC 2.6.1.1);",1
+"SEED;Amino Acids and Derivatives;Arginine metabolism and urea cycle in plants;Acetylglutamate kinase (EC 2.7.2.8);",1
+"SEED;Amino Acids and Derivatives;Arginine metabolism and urea cycle in plants;Argininosuccinate lyase (EC 4.3.2.1);",1
+"SEED;Amino Acids and Derivatives;Arginine metabolism and urea cycle in plants;Argininosuccinate synthase (EC 6.3.4.5);",1
+"SEED;Amino Acids and Derivatives;Aromatic amino acid degradation;5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase (EC 1.2.1.60);",2
+"SEED;Amino Acids and Derivatives;Branched chain amino acid degradation regulons;Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4);",1
+"SEED;Amino Acids and Derivatives;Branched-Chain Amino Acid Biosynthesis;2-isopropylmalate synthase (EC 2.3.3.13);",1
+"SEED;Amino Acids and Derivatives;Branched-Chain Amino Acid Biosynthesis;3-isopropylmalate dehydratase small subunit (EC 4.2.1.33);",1
+"SEED;Amino Acids and Derivatives;Branched-Chain Amino Acid Biosynthesis;Acetolactate synthase large subunit (EC 2.2.1.6);",2
+"SEED;Amino Acids and Derivatives;Branched-chain amino acid metabolism in plants;2-isopropylmalate synthase (EC 2.3.3.13);",1
+"SEED;Amino Acids and Derivatives;Branched-chain amino acid metabolism in plants;3-isopropylmalate dehydratase small subunit (EC 4.2.1.33);",1
+"SEED;Amino Acids and Derivatives;Branched-chain amino acid metabolism in plants;Acetolactate synthase large subunit (EC 2.2.1.6);",2
+"SEED;Amino Acids and Derivatives;Chorismate biosynthesis in plants;2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54);",1
+"SEED;Amino Acids and Derivatives;Chorismate biosynthesis in Streptococci;2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha (EC 2.5.1.54);",1
+"SEED;Amino Acids and Derivatives;Chorismate biosynthesis in Streptococci;2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54);",1
+"SEED;Amino Acids and Derivatives;Chorismate Synthesis;2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha (EC 2.5.1.54);",1
+"SEED;Amino Acids and Derivatives;Chorismate Synthesis;2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54);",1
+"SEED;Amino Acids and Derivatives;Chorismate Synthesis;2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54);",1
+"SEED;Amino Acids and Derivatives;Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate);2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha (EC 2.5.1.54);",1
+"SEED;Amino Acids and Derivatives;Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate);2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54);",1
+"SEED;Amino Acids and Derivatives;Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate);2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54);",1
+"SEED;Amino Acids and Derivatives;Cyanophycin Metabolism;Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4);",1
+"SEED;Amino Acids and Derivatives;Cysteine Biosynthesis, MCB 432;Serine acetyltransferase (EC 2.3.1.30);",1
+"SEED;Amino Acids and Derivatives;Cysteine Biosynthesis;Serine acetyltransferase (EC 2.3.1.30);",1
+"SEED;Amino Acids and Derivatives;Evolution of Proline Biosynthesis (for review by Fichman et al);Acetylglutamate kinase (EC 2.7.2.8);",1
+"SEED;Amino Acids and Derivatives;Evolution of Proline Biosynthesis (for review by Fichman et al);Argininosuccinate lyase (EC 4.3.2.1);",1
+"SEED;Amino Acids and Derivatives;Evolution of Proline Biosynthesis (for review by Fichman et al);Argininosuccinate synthase (EC 6.3.4.5);",1
+"SEED;Amino Acids and Derivatives;Evolution of Proline Biosynthesis (for review by Fichman et al);Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.5.1.12);",1
+"SEED;Amino Acids and Derivatives;Glutamine synthetases;Glutamine synthetase type I (EC 6.3.1.2);",1
+"SEED;Amino Acids and Derivatives;Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis;Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4);",1
+"SEED;Amino Acids and Derivatives;Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis;Aspartate aminotransferase (EC 2.6.1.1);",1
+"SEED;Amino Acids and Derivatives;Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis;Glutamine synthetase type I (EC 6.3.1.2);",1
+"SEED;Amino Acids and Derivatives;Glutamine, glutamate, aspartate, asparagine metabolism in plants;Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4);",1
+"SEED;Amino Acids and Derivatives;Glutamine, glutamate, aspartate, asparagine metabolism in plants;Aspartate aminotransferase (EC 2.6.1.1);",1
+"SEED;Amino Acids and Derivatives;Glutamine, glutamate, aspartate, asparagine metabolism in plants;Citrate synthase (si) (EC 2.3.3.1);",1
+"SEED;Amino Acids and Derivatives;Glutamine, glutamate, aspartate, asparagine metabolism in plants;Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.5.1.12);",1
+"SEED;Amino Acids and Derivatives;Glycine and Serine Utilization;D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95);",3
+"SEED;Amino Acids and Derivatives;Glycine and Serine Utilization;Monoamine oxidase (1.4.3.4);",1
+"SEED;Amino Acids and Derivatives;Histidine Biosynthesis in plants;Histidinol-phosphatase (EC 3.1.3.15);",1
+"SEED;Amino Acids and Derivatives;Histidine Biosynthesis in plants;Histidinol-phosphatase [alternative form] (EC 3.1.3.15);",2
+"SEED;Amino Acids and Derivatives;Histidine Biosynthesis in Streptococci;Histidinol-phosphatase (EC 3.1.3.15);",1
+"SEED;Amino Acids and Derivatives;Histidine Biosynthesis in Streptococci;Histidinol-phosphatase [alternative form] (EC 3.1.3.15);",2
+"SEED;Amino Acids and Derivatives;Histidine Biosynthesis;Histidinol-phosphatase (EC 3.1.3.15);",1
+"SEED;Amino Acids and Derivatives;Histidine Biosynthesis;Histidinol-phosphatase [alternative form] (EC 3.1.3.15);",2
+"SEED;Amino Acids and Derivatives;Histidine Degradation in Streptococci;Urocanate hydratase (EC 4.2.1.49);",1
+"SEED;Amino Acids and Derivatives;Histidine Degradation;Urocanate hydratase (EC 4.2.1.49);",1
+"SEED;Amino Acids and Derivatives;HMG CoA Synthesis;Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4);",1
+"SEED;Amino Acids and Derivatives;HMG-CoA;Branched-chain acyl-CoA dehydrogenase (EC 1.3.99.12);",3
+"SEED;Amino Acids and Derivatives;HMG-CoA;Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4);",1
+"SEED;Amino Acids and Derivatives;Isoleucine degradation;3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35);",1
+"SEED;Amino Acids and Derivatives;Isoleucine degradation;3-ketoacyl-CoA thiolase (EC 2.3.1.16);",1
+"SEED;Amino Acids and Derivatives;Isoleucine degradation;Acyl-CoA dehydrogenase, short-chain specific (EC 1.3.99.2);",1
+"SEED;Amino Acids and Derivatives;Isoleucine degradation;Branched-chain acyl-CoA dehydrogenase (EC 1.3.99.12);",3
+"SEED;Amino Acids and Derivatives;Isoleucine degradation;Enoyl-CoA hydratase (EC 4.2.1.17);",2
+"SEED;Amino Acids and Derivatives;Khodge314 Isoleucine Biosynthesis;Acetolactate synthase large subunit (EC 2.2.1.6);",2
+"SEED;Amino Acids and Derivatives;Leucine Biosynthesis;2-isopropylmalate synthase (EC 2.3.3.13);",1
+"SEED;Amino Acids and Derivatives;Leucine Biosynthesis;3-isopropylmalate dehydratase small subunit (EC 4.2.1.33);",1
+"SEED;Amino Acids and Derivatives;Leucine Degradation and HMG-CoA Metabolism;Branched-chain acyl-CoA dehydrogenase (EC 1.3.99.12);",3
+"SEED;Amino Acids and Derivatives;Leucine Degradation and HMG-CoA Metabolism;Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4);",1
+"SEED;Amino Acids and Derivatives;Lysine and threonine metabolism in plants;Diaminopimelate decarboxylase (EC 4.1.1.20);",1
+"SEED;Amino Acids and Derivatives;Lysine Biosynthesis DAP Pathway;Diaminopimelate decarboxylase (EC 4.1.1.20);",1
+"SEED;Amino Acids and Derivatives;Lysine biosynthesis in Streptococci;Aspartate aminotransferase (EC 2.6.1.1);",1
+"SEED;Amino Acids and Derivatives;Lysine biosynthesis in Streptococci;Diaminopimelate decarboxylase (EC 4.1.1.20);",1
+"SEED;Amino Acids and Derivatives;Lysine fermentation MCB 432;3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35);",1
+"SEED;Amino Acids and Derivatives;Lysine fermentation MCB 432;Acetoacetyl-CoA reductase (EC 1.1.1.36);",1
+"SEED;Amino Acids and Derivatives;Lysine fermentation MCB 432;Acetyl-CoA acetyltransferase (EC 2.3.1.9);",2
+"SEED;Amino Acids and Derivatives;Lysine fermentation MCB 432;Enoyl-CoA hydratase (EC 4.2.1.17);",2
+"SEED;Amino Acids and Derivatives;Lysine fermentation;3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35);",1
+"SEED;Amino Acids and Derivatives;Lysine fermentation;Acetoacetyl-CoA reductase (EC 1.1.1.36);",1
+"SEED;Amino Acids and Derivatives;Lysine fermentation;Acetyl-CoA acetyltransferase (EC 2.3.1.9);",2
+"SEED;Amino Acids and Derivatives;Lysine fermentation;Enoyl-CoA hydratase (EC 4.2.1.17);",2
+"SEED;Amino Acids and Derivatives;MethanopterinAromatic;2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54);",1
+"SEED;Amino Acids and Derivatives;Methionine and cysteine metabolism in plants;Serine acetyltransferase (EC 2.3.1.30);",1
+"SEED;Amino Acids and Derivatives;Methionine Biosynthesis;Homoserine O-acetyltransferase (EC 2.3.1.31);",1
+"SEED;Amino Acids and Derivatives;Methionine Biosynthesis;O-succinylhomoserine sulfhydrylase (EC 2.5.1.48);",1
+"SEED;Amino Acids and Derivatives;Methionine Biosynthesis;Serine acetyltransferase (EC 2.3.1.30);",1
+"SEED;Amino Acids and Derivatives;Methionine Degradation;Pyruvate dehydrogenase E1 component (EC 1.2.4.1);",1
+"SEED;Amino Acids and Derivatives;Methionine in Streptococci;Homoserine O-acetyltransferase (EC 2.3.1.31);",1
+"SEED;Amino Acids and Derivatives;Methionine in Streptococci;O-succinylhomoserine sulfhydrylase (EC 2.5.1.48);",1
+"SEED;Amino Acids and Derivatives;Methionine in Streptococci;Serine acetyltransferase (EC 2.3.1.30);",1
+"SEED;Amino Acids and Derivatives;Methionine Salvage;Aspartate aminotransferase (EC 2.6.1.1);",1
+"SEED;Amino Acids and Derivatives;PII Superfamily;Cobalt-zinc-cadmium resistance protein CzcA;",1
+"SEED;Amino Acids and Derivatives;PII Superfamily;Glutamine synthetase type I (EC 6.3.1.2);",1
+"SEED;Amino Acids and Derivatives;PII Superfamily;Heavy metal RND efflux outer membrane protein, CzcC family;",1
+"SEED;Amino Acids and Derivatives;Proline, 4-hydroxyproline uptake and utilization;Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.5.1.12);",1
+"SEED;Amino Acids and Derivatives;Putrescine utilization pathways;Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase (EC 2.6.1.19);",2
+"SEED;Amino Acids and Derivatives;Serine Biosynthesis;D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95);",3
+"SEED;Amino Acids and Derivatives;Threonine and Homoserine Biosynthesis;Aspartate aminotransferase (EC 2.6.1.1);",1
+"SEED;Amino Acids and Derivatives;Threonine degradation;Monoamine oxidase (1.4.3.4);",1
+"SEED;Amino Acids and Derivatives;Threonine degradation;Threonine dehydrogenase and related Zn-dependent dehydrogenases;",2
+"SEED;Amino Acids and Derivatives;Tryptophan biosynthesis in Streptococci;Anthranilate synthase, aminase component (EC 4.1.3.27);",1
+"SEED;Amino Acids and Derivatives;Tryptophan metabolism in plants;Anthranilate synthase, aminase component (EC 4.1.3.27);",1
+"SEED;Amino Acids and Derivatives;Tryptophan synthesis;Anthranilate synthase, aminase component (EC 4.1.3.27);",1
+"SEED;Amino Acids and Derivatives;Urea decomposition;Urea ABC transporter, permease protein UrtB;",1
+"SEED;Amino Acids and Derivatives;Urea decomposition;Urea carboxylase-related ABC transporter, periplasmic substrate-binding protein;",1
+"SEED;Amino Acids and Derivatives;Valine degradation;3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35);",1
+"SEED;Amino Acids and Derivatives;Valine degradation;Branched-chain acyl-CoA dehydrogenase (EC 1.3.99.12);",3
+"SEED;Amino Acids and Derivatives;Valine degradation;Enoyl-CoA hydratase (EC 4.2.1.17);",2
+"SEED;Carbohydrates;Acetoin, butanediol metabolism;Acetolactate synthase large subunit (EC 2.2.1.6);",2
+"SEED;Carbohydrates;Acetone Butanol Ethanol Synthesis;Acetyl-CoA acetyltransferase (EC 2.3.1.9);",2
+"SEED;Carbohydrates;Acetyl-CoA biosynthesis in plants;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12);",1
+"SEED;Carbohydrates;Acetyl-CoA biosynthesis in plants;Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1);",1
+"SEED;Carbohydrates;Acetyl-CoA biosynthesis in plants;Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1);",1
+"SEED;Carbohydrates;Acetyl-CoA fermentation to Butyrate;3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35);",1
+"SEED;Carbohydrates;Acetyl-CoA fermentation to Butyrate;Acetoacetyl-CoA reductase (EC 1.1.1.36);",1
+"SEED;Carbohydrates;Acetyl-CoA fermentation to Butyrate;Acetyl-CoA acetyltransferase (EC 2.3.1.9);",2
+"SEED;Carbohydrates;Acetyl-CoA fermentation to Butyrate;Enoyl-CoA hydratase (EC 4.2.1.17);",2
+"SEED;Carbohydrates;acinetobacter tca;Citrate synthase (si) (EC 2.3.3.1);",1
+"SEED;Carbohydrates;acinetobacter tca;Malate dehydrogenase (EC 1.1.1.37);",1
+"SEED;Carbohydrates;acinetobacter tca;Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1);",1
+"SEED;Carbohydrates;alpha carboxysome;NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3);",1
+"SEED;Carbohydrates;alpha carboxysome;Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.15);",1
+"SEED;Carbohydrates;beta carboxysome;High-affnity carbon uptake protein Hat/HatR;",1
+"SEED;Carbohydrates;Beta-Glucoside Metabolism;Beta-glucosidase (EC 3.2.1.21);",1
+"SEED;Carbohydrates;Butanol Biosynthesis;Acetyl-CoA acetyltransferase (EC 2.3.1.9);",2
+"SEED;Carbohydrates;Butanol Biosynthesis;Enoyl-CoA hydratase (EC 4.2.1.17);",2
+"SEED;Carbohydrates;Calvin-Benson cycle;Triosephosphate isomerase (EC 5.3.1.1);",1
+"SEED;Carbohydrates;Calvin-Benson-Bassham cycle in plants;Triosephosphate isomerase (EC 5.3.1.1);",1
+"SEED;Carbohydrates;Carboxysome;High-affnity carbon uptake protein Hat/HatR;",1
+"SEED;Carbohydrates;Carboxysome;NADH dehydrogenase (EC 1.6.99.3);",2
+"SEED;Carbohydrates;Citrate Metabolism KE;Malate dehydrogenase (EC 1.1.1.37);",1
+"SEED;Carbohydrates;Citrate Metabolism KE;Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4);",1
+"SEED;Carbohydrates;Citrate Metabolism KE;Transaldolase (EC 2.2.1.2);",1
+"SEED;Carbohydrates;Citrate Metabolism KE3;Malate dehydrogenase (EC 1.1.1.37);",1
+"SEED;Carbohydrates;Citrate Metabolism KE4;Malate dehydrogenase (EC 1.1.1.37);",1
+"SEED;Carbohydrates;CO2 uptake, carboxysome;High-affnity carbon uptake protein Hat/HatR;",1
+"SEED;Carbohydrates;D-galactarate, D-glucarate and D-glycerate catabolism - gjo;Glucarate dehydratase (EC 4.2.1.40);",1
+"SEED;Carbohydrates;D-galactarate, D-glucarate and D-glycerate catabolism;Glucarate dehydratase (EC 4.2.1.40);",1
+"SEED;Carbohydrates;D-Galacturonate and D-Glucuronate Utilization;2-dehydro-3-deoxygluconate kinase (EC 2.7.1.45);",1
+"SEED;Carbohydrates;D-Galacturonate and D-Glucuronate Utilization;D-mannonate oxidoreductase (EC 1.1.1.57);",1
+"SEED;Carbohydrates;D-Galacturonate and D-Glucuronate Utilization;Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8);",1
+"SEED;Carbohydrates;D-gluconate and ketogluconates metabolism;2-dehydro-3-deoxygluconate kinase (EC 2.7.1.45);",1
+"SEED;Carbohydrates;D-Sorbitol(D-Glucitol) and L-Sorbose Utilization;Glucitol operon activator protein;",1
+"SEED;Carbohydrates;Dehydrogenase complexes;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12);",1
+"SEED;Carbohydrates;Dehydrogenase complexes;Pyruvate dehydrogenase E1 component (EC 1.2.4.1);",1
+"SEED;Carbohydrates;Dehydrogenase complexes;Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1);",1
+"SEED;Carbohydrates;Dehydrogenase complexes;Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1);",1
+"SEED;Carbohydrates;Entner-Doudoroff Pathway;2-dehydro-3-deoxygluconate kinase (EC 2.7.1.45);",1
+"SEED;Carbohydrates;Entner-Doudoroff Pathway;2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.1);",1
+"SEED;Carbohydrates;Entner-Doudoroff Pathway;Aldehyde dehydrogenase (EC 1.2.1.3);",1
+"SEED;Carbohydrates;Entner-Doudoroff Pathway;D-mannonate oxidoreductase (EC 1.1.1.57);",1
+"SEED;Carbohydrates;Entner-Doudoroff Pathway;Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49);",2
+"SEED;Carbohydrates;Ethylmalonyl-CoA pathway of C2 assimilation, GJO;Acetoacetyl-CoA reductase (EC 1.1.1.36);",1
+"SEED;Carbohydrates;Ethylmalonyl-CoA pathway of C2 assimilation, GJO;Acetyl-CoA acetyltransferase (EC 2.3.1.9);",2
+"SEED;Carbohydrates;Ethylmalonyl-CoA pathway of C2 assimilation;Acetoacetyl-CoA reductase (EC 1.1.1.36);",1
+"SEED;Carbohydrates;Ethylmalonyl-CoA pathway of C2 assimilation;Acetyl-CoA acetyltransferase (EC 2.3.1.9);",2
+"SEED;Carbohydrates;Fermentations in Streptococci;Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49);",2
+"SEED;Carbohydrates;Fermentations: Lactate;Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49);",2
+"SEED;Carbohydrates;Formaldehyde assimilation: Ribulose monophosphate pathway;Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49);",2
+"SEED;Carbohydrates;Fructooligosaccharides(FOS) and Raffinose Utilization;Beta-glucosidase (EC 3.2.1.21);",1
+"SEED;Carbohydrates;Fructose utilization;Transaldolase (EC 2.2.1.2);",1
+"SEED;Carbohydrates;Glycerol and Glycerol-3-phosphate Uptake and Utilization;Glycerol-3-phosphate ABC transporter, permease protein UgpA (TC 3.A.1.1.3);",3
+"SEED;Carbohydrates;Glycogen metabolism;4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25);",1
+"SEED;Carbohydrates;Glycolysis and Gluconeogenesis in plants;2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.1);",1
+"SEED;Carbohydrates;Glycolysis and Gluconeogenesis in plants;Malate dehydrogenase (EC 1.1.1.37);",1
+"SEED;Carbohydrates;Glycolysis and Gluconeogenesis in plants;NAD-dependent malic enzyme (EC 1.1.1.38);",1
+"SEED;Carbohydrates;Glycolysis and Gluconeogenesis in plants;Triosephosphate isomerase (EC 5.3.1.1);",1
+"SEED;Carbohydrates;Glycolysis and Gluconeogenesis in Streptococci;Beta-glucosidase (EC 3.2.1.21);",1
+"SEED;Carbohydrates;Glycolysis and Gluconeogenesis in Streptococci;Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49);",2
+"SEED;Carbohydrates;Glycolysis and Gluconeogenesis in Streptococci;Triosephosphate isomerase (EC 5.3.1.1);",1
+"SEED;Carbohydrates;Glycolysis and Gluconeogenesis, including Archaeal enzymes;2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.1);",1
+"SEED;Carbohydrates;Glycolysis and Gluconeogenesis, including Archaeal enzymes;Triosephosphate isomerase (EC 5.3.1.1);",1
+"SEED;Carbohydrates;Glycolysis and Gluconeogenesis;2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.1);",1
+"SEED;Carbohydrates;Glycolysis and Gluconeogenesis;Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49);",2
+"SEED;Carbohydrates;Glycolysis and Gluconeogenesis;Triosephosphate isomerase (EC 5.3.1.1);",1
+"SEED;Carbohydrates;Glycolysis test;2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.1);",1
+"SEED;Carbohydrates;Glycolysis test;Triosephosphate isomerase (EC 5.3.1.1);",1
+"SEED;Carbohydrates;Glyoxylate bypass;Citrate synthase (si) (EC 2.3.3.1);",1
+"SEED;Carbohydrates;Glyoxylate bypass;Malate dehydrogenase (EC 1.1.1.37);",1
+"SEED;Carbohydrates;Inositol catabolism;5-keto-2-deoxygluconokinase (EC 2.7.1.92);",1
+"SEED;Carbohydrates;Inositol catabolism;Inosose isomerase (EC 5.3.99.-);",1
+"SEED;Carbohydrates;Inositol catabolism;Myo-inositol 2-dehydrogenase (EC 1.1.1.18);",1
+"SEED;Carbohydrates;Inositol catabolism;Predicted transcriptional regulator of the myo-inositol catabolic operon;",1
+"SEED;Carbohydrates;Isobutyryl-CoA to Propionyl-CoA Module;Branched-chain acyl-CoA dehydrogenase (EC 1.3.99.12);",3
+"SEED;Carbohydrates;L-ascorbate utilization (and related gene clusters);L-ribulose-5-phosphate 4-epimerase UlaF (EC 5.1.3.4) (L-ascorbate utilization protein F);",2
+"SEED;Carbohydrates;L-rhamnose utilization;L-lactate dehydrogenase (EC 1.1.2.3);",1
+"SEED;Carbohydrates;L-rhamnose utilization;L-rhamnose-proton symporter;",1
+"SEED;Carbohydrates;Lactate utilization temp;L-lactate dehydrogenase (EC 1.1.2.3);",1
+"SEED;Carbohydrates;Lactate utilization temp;Succinate-semialdehyde dehydrogenase [NADP+] (EC 1.2.1.79);",1
+"SEED;Carbohydrates;Lactate utilization;L-lactate dehydrogenase (EC 1.1.2.3);",1
+"SEED;Carbohydrates;Lactose and Galactose Uptake and Utilization;Beta-galactosidase (EC 3.2.1.23);",3
+"SEED;Carbohydrates;Lactose utilization;Beta-galactosidase (EC 3.2.1.23);",3
+"SEED;Carbohydrates;Maltose and Maltodextrin Utilization;4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25);",1
+"SEED;Carbohydrates;Maltose and Maltodextrin Utilization;Maltose/maltodextrin ABC transporter, permease protein MalG;",1
+"SEED;Carbohydrates;Mannitol Utilization;Mannitol-1-phosphate 5-dehydrogenase (EC 1.1.1.17);",1
+"SEED;Carbohydrates;Mannose Metabolism;Mannose-1-phosphate guanylyltransferase (GDP) (EC 2.7.7.22);",1
+"SEED;Carbohydrates;Methylcitrate cycle;2-methylcitrate dehydratase (EC 4.2.1.79);",1
+"SEED;Carbohydrates;Methylglyoxal Metabolism;Aldehyde dehydrogenase (EC 1.2.1.3);",1
+"SEED;Carbohydrates;Methylglyoxal Metabolism;Lactoylglutathione lyase (EC 4.4.1.5);",1
+"SEED;Carbohydrates;N-Acetyl-Galactosamine and Galactosamine Utilization;Galactosamine-6-phosphate isomerase (EC 5.3.1.-);",1
+"SEED;Carbohydrates;Pentose phosphate pathway in plants;Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49);",2
+"SEED;Carbohydrates;Pentose phosphate pathway in plants;Transaldolase (EC 2.2.1.2);",1
+"SEED;Carbohydrates;Pentose phosphate pathway;Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49);",2
+"SEED;Carbohydrates;Pentose phosphate pathway;Transaldolase (EC 2.2.1.2);",1
+"SEED;Carbohydrates;Propionate-CoA to Succinate Module;2-methylcitrate dehydratase (EC 4.2.1.79);",1
+"SEED;Carbohydrates;Propionyl-CoA to Succinyl-CoA Module;Methylmalonyl-CoA mutase (EC 5.4.99.2);",1
+"SEED;Carbohydrates;Pyruvate Alanine Serine Interconversions;Alanine racemase (EC 5.1.1.1);",2
+"SEED;Carbohydrates;Pyruvate Alanine Serine Interconversions;D-alanine aminotransferase (EC 2.6.1.21);",1
+"SEED;Carbohydrates;Pyruvate Alanine Serine Interconversions;D-amino acid dehydrogenase small subunit (EC 1.4.99.1);",2
+"SEED;Carbohydrates;Pyruvate Alanine Serine Interconversions;Omega-amino acid--pyruvate aminotransferase (EC 2.6.1.18);",1
+"SEED;Carbohydrates;Pyruvate metabolism I: anaplerotic reactions, PEP in Mycobacteria;NAD-dependent malic enzyme (EC 1.1.1.38);",1
+"SEED;Carbohydrates;Pyruvate metabolism I: anaplerotic reactions, PEP in Mycobacteria;Succinate-semialdehyde dehydrogenase [NADP+] (EC 1.2.1.79);",1
+"SEED;Carbohydrates;Pyruvate metabolism I: anaplerotic reactions, PEP;NAD-dependent malic enzyme (EC 1.1.1.38);",1
+"SEED;Carbohydrates;Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate;Aldehyde dehydrogenase (EC 1.2.1.3);",1
+"SEED;Carbohydrates;Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12);",1
+"SEED;Carbohydrates;Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate;Pyruvate dehydrogenase E1 component (EC 1.2.4.1);",1
+"SEED;Carbohydrates;Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate;Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1);",1
+"SEED;Carbohydrates;Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate;Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1);",1
+"SEED;Carbohydrates;Quinones HGM;Citrate synthase (si) (EC 2.3.3.1);",1
+"SEED;Carbohydrates;Rubisco shunt in plants;2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.1);",1
+"SEED;Carbohydrates;Rubisco shunt in plants;Transaldolase (EC 2.2.1.2);",1
+"SEED;Carbohydrates;Serine-glyoxylate cycle;3-ketoacyl-CoA thiolase (EC 2.3.1.16);",1
+"SEED;Carbohydrates;Serine-glyoxylate cycle;Acetoacetyl-CoA reductase (EC 1.1.1.36);",1
+"SEED;Carbohydrates;Serine-glyoxylate cycle;Acetyl-CoA acetyltransferase (EC 2.3.1.9);",2
+"SEED;Carbohydrates;Serine-glyoxylate cycle;Citrate synthase (si) (EC 2.3.3.1);",1
+"SEED;Carbohydrates;Serine-glyoxylate cycle;Malate dehydrogenase (EC 1.1.1.37);",1
+"SEED;Carbohydrates;Serine-glyoxylate cycle;Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4);",1
+"SEED;Carbohydrates;Serine-glyoxylate cycle;Methylmalonyl-CoA mutase (EC 5.4.99.2);",1
+"SEED;Carbohydrates;Serine-glyoxylate cycle;Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1);",1
+"SEED;Carbohydrates;Starch degradation in plants;4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25);",1
+"SEED;Carbohydrates;Sucrose metabolism in plants;2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.1);",1
+"SEED;Carbohydrates;Sucrose metabolism in plants;Triosephosphate isomerase (EC 5.3.1.1);",1
+"SEED;Carbohydrates;Sugar utilization in Thermotogales;2-dehydro-3-deoxygluconate kinase (EC 2.7.1.45);",1
+"SEED;Carbohydrates;Sugar utilization in Thermotogales;Beta-galactosidase (EC 3.2.1.23);",3
+"SEED;Carbohydrates;Sugar utilization in Thermotogales;Beta-glucosidase (EC 3.2.1.21);",1
+"SEED;Carbohydrates;Sugar utilization in Thermotogales;Beta-xylosidase (EC 3.2.1.37);",1
+"SEED;Carbohydrates;Sugar utilization in Thermotogales;D-mannonate oxidoreductase (EC 1.1.1.57);",1
+"SEED;Carbohydrates;Sugar utilization in Thermotogales;Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8);",1
+"SEED;Carbohydrates;Sugar utilization in Thermotogales;Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49);",2
+"SEED;Carbohydrates;Sugar utilization in Thermotogales;Glycerol-3-phosphate ABC transporter, permease protein UgpA (TC 3.A.1.1.3);",3
+"SEED;Carbohydrates;Sugar utilization in Thermotogales;Maltose/maltodextrin ABC transporter, permease protein MalG;",1
+"SEED;Carbohydrates;Sugar utilization in Thermotogales;Transaldolase (EC 2.2.1.2);",1
+"SEED;Carbohydrates;Sugar utilization in Thermotogales;Triosephosphate isomerase (EC 5.3.1.1);",1
+"SEED;Carbohydrates;TCA cycle in plants;Citrate synthase (si) (EC 2.3.3.1);",1
+"SEED;Carbohydrates;TCA cycle in plants;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12);",1
+"SEED;Carbohydrates;TCA cycle in plants;Malate dehydrogenase (EC 1.1.1.37);",1
+"SEED;Carbohydrates;TCA cycle in plants;NAD-dependent malic enzyme (EC 1.1.1.38);",1
+"SEED;Carbohydrates;TCA cycle in plants;Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1);",1
+"SEED;Carbohydrates;TCA cycle in plants;Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1);",1
+"SEED;Carbohydrates;TCA Cycle;Citrate synthase (si) (EC 2.3.3.1);",1
+"SEED;Carbohydrates;TCA Cycle;Malate dehydrogenase (EC 1.1.1.37);",1
+"SEED;Carbohydrates;TCA Cycle;Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1);",1
+"SEED;Carbohydrates;Trehalose  metabolism in plants;Trehalose-6-phosphate phosphatase (EC 3.1.3.12);",1
+"SEED;Carbohydrates;Trehalose Biosynthesis;Trehalose-6-phosphate phosphatase (EC 3.1.3.12);",1
+"SEED;Carbohydrates;Xylose utilization;Beta-xylosidase (EC 3.2.1.37);",1
+"SEED;Carbohydrates;Xylose utilization;Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8);",1
+"SEED;Cell Division and Cell Cycle;Bacterial Cytoskeleton;Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129);",1
+"SEED;Cell Division and Cell Cycle;Bacterial Cytoskeleton;Cell division protein FtsK;",2
+"SEED;Cell Division and Cell Cycle;Bacterial Cytoskeleton;Cell division protein FtsQ;",1
+"SEED;Cell Division and Cell Cycle;Bacterial Cytoskeleton;Cell division protein FtsZ (EC 3.4.24.-);",1
+"SEED;Cell Division and Cell Cycle;Bacterial Cytoskeleton;Cell division topological specificity factor MinE;",1
+"SEED;Cell Division and Cell Cycle;Bacterial Cytoskeleton;Rod shape-determining protein MreD;",1
+"SEED;Cell Division and Cell Cycle;Bacterial Cytoskeleton;Rod shape-determining protein RodA;",2
+"SEED;Cell Division and Cell Cycle;Bacterial Cytoskeleton;Septum formation protein Maf;",1
+"SEED;Cell Division and Cell Cycle;Macromolecular synthesis operon;TsaD/Kae1/Qri7 protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA;",1
+"SEED;Cell Division and Cell Cycle;YgjD and YeaZ;TsaD/Kae1/Qri7 protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA;",1
+"SEED;Cell Wall and Capsule;Alginate metabolism;Mannose-1-phosphate guanylyltransferase (GDP) (EC 2.7.7.22);",1
+"SEED;Cell Wall and Capsule;Brucella Wbk Region and LPS genes;Mannose-1-phosphate guanylyltransferase (GDP) (EC 2.7.7.22);",1
+"SEED;Cell Wall and Capsule;Capsular Polysaccharides Biosynthesis and Assembly;O-antigen flippase Wzx;",1
+"SEED;Cell Wall and Capsule;CMP-N-acetylneuraminate Biosynthesis;N-acetylneuraminate synthase (EC 2.5.1.56);",1
+"SEED;Cell Wall and Capsule;KDO2-Lipid A biosynthesis;3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45);",1
+"SEED;Cell Wall and Capsule;KDO2-Lipid A biosynthesis;Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.-);",1
+"SEED;Cell Wall and Capsule;KDO2-Lipid A biosynthesis;Lipid A export ATP-binding/permease protein MsbA;",1
+"SEED;Cell Wall and Capsule;KDO2-Lipid A biosynthesis;Lipopolysaccharide ABC transporter, ATP-binding protein LptB;",1
+"SEED;Cell Wall and Capsule;KDO2-Lipid A biosynthesis;O-antigen flippase Wzx;",1
+"SEED;Cell Wall and Capsule;KDO2-Lipid A biosynthesis;regulator of length of O-antigen component of lipopolysaccharide chains;",1
+"SEED;Cell Wall and Capsule;Lipid A biosynthesis in plants;3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45);",1
+"SEED;Cell Wall and Capsule;Lipid A biosynthesis in plants;Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.-);",1
+"SEED;Cell Wall and Capsule;Lipid A modifications;Fe(2+)/alpha-ketoglutarate-dependent dioxygenase LpxO;",1
+"SEED;Cell Wall and Capsule;Lipopolysaccharide assembly;HtrA protease/chaperone protein;",1
+"SEED;Cell Wall and Capsule;Lipopolysaccharide assembly;Lipopolysaccharide ABC transporter, ATP-binding protein LptB;",1
+"SEED;Cell Wall and Capsule;Lipopolysaccharide-related cluster in Alphaproteobacteria;Lipid A export ATP-binding/permease protein MsbA;",1
+"SEED;Cell Wall and Capsule;Murein Hydrolases;Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-);",1
+"SEED;Cell Wall and Capsule;mycolic acid synthesis;3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100);",3
+"SEED;Cell Wall and Capsule;mycolic acid synthesis;Acyl carrier protein;",1
+"SEED;Cell Wall and Capsule;mycolic acid synthesis;Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39);",1
+"SEED;Cell Wall and Capsule;Peptidoglycan Biosynthesis;Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129);",1
+"SEED;Cell Wall and Capsule;Peptidoglycan Biosynthesis;Glutamine synthetase type I (EC 6.3.1.2);",1
+"SEED;Cell Wall and Capsule;Peptidoglycan Biosynthesis;Rod shape-determining protein RodA;",2
+"SEED;Cell Wall and Capsule;Peptidoglycan Biosynthesis;UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7);",1
+"SEED;Cell Wall and Capsule;Perosamine Synthesis Vibrio;Mannose-1-phosphate guanylyltransferase (GDP) (EC 2.7.7.22);",1
+"SEED;Cell Wall and Capsule;Sialic Acid Metabolism;N-acetylneuraminate synthase (EC 2.5.1.56);",1
+"SEED;Cell Wall and Capsule;Sialic Acid Metabolism;TRAP-type transport system, small permease component, predicted N-acetylneuraminate transporter;",1
+"SEED;Cell Wall and Capsule;UDP-N-acetylmuramate from Fructose-6-phosphate Biosynthesis;UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7);",1
+"SEED;Cell Wall and Capsule;Vibrio Polysaccharide (VPS) Biosynthesis;Serine acetyltransferase (EC 2.3.1.30);",1
+"SEED;Central metabolism;Cyanobacterial bypass in the TCA;Succinate-semialdehyde dehydrogenase [NADP+] (EC 1.2.1.79);",1
+"SEED;Central metabolism;EC 6.4.1.- Ligases that form carbon-carbon bonds;Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2);",1
+"SEED;Central metabolism;EC 6.4.1.- Ligases that form carbon-carbon bonds;Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;5-FCL-like protein;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;5-FCL-like protein;Pyruvate dehydrogenase E1 component (EC 1.2.4.1);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;B12 Biosynthesis (Tavares copy1);Aerobic cobaltochelatase CobS subunit (EC 6.6.1.2);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;B12 Biosynthesis (Tavares copy1);Vitamin B12 ABC transporter, permease component BtuC;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;B12 Cobalamin HMP;Vitamin B12 ABC transporter, permease component BtuC;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;B12 duf71;Vitamin B12 ABC transporter, permease component BtuC;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;BEY LIP;Cell division protein FtsZ (EC 3.4.24.-);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;BEY LIP;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Biotin biosynthesis;3-ketoacyl-CoA thiolase (EC 2.3.1.16);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Biotin biosynthesis;Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3);",2
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Biotin synthesis & utilization;3-ketoacyl-CoA thiolase (EC 2.3.1.16);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Biotin synthesis & utilization;Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3);",2
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;CbiZ Main I;Vitamin B12 ABC transporter, permease component BtuC;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;CbiZ Main;Vitamin B12 ABC transporter, permease component BtuC;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;CLO thiaminPP biosynthesis;Hydroxymethylpyrimidine ABC transporter, ATPase component;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;CoA Pantothenate HMP;3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;CoA Pantothenate HMP;Aspartate 1-decarboxylase (EC 4.1.1.11);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;coA-FolK;3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;coA-FolK;Aspartate 1-decarboxylase (EC 4.1.1.11);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Cobalamin Biosynthesis;Vitamin B12 ABC transporter, permease component BtuC;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Cobalamin Dh;Vitamin B12 ABC transporter, permease component BtuC;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Cobalamin;Vitamin B12 ABC transporter, permease component BtuC;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Coenzyme A Biosynthesis;3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Coenzyme A Biosynthesis;Aspartate 1-decarboxylase (EC 4.1.1.11);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Coenzyme B12 biosynthesis;Aerobic cobaltochelatase CobS subunit (EC 6.6.1.2);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Coenzyme B12 biosynthesis;Vitamin B12 ABC transporter, permease component BtuC;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Coenzyme PQQ synthesis;Isoquinoline 1-oxidoreductase beta subunit (EC 1.3.99.16);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Core tetrapyrrole biosynthesis in plants;Glutamyl-tRNA reductase (EC 1.2.1.70);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;dcernst CoA Salvage;3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;dcernst CoA Salvage;Aspartate 1-decarboxylase (EC 4.1.1.11);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;dcernst CoA Salvage2;3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;dcernst CoA Salvage2;Aspartate 1-decarboxylase (EC 4.1.1.11);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Experimental tye;Glutamyl-tRNA reductase (EC 1.2.1.70);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Fe-S cluster assembly;Cysteine desulfurase (EC 2.8.1.7), SufS subfamily;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Folate Biosynthesis;Alternative dihydrofolate reductase 3;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Folate HMP;Alternative dihydrofolate reductase 3;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Folate Tryp Chlamydiae;Anthranilate synthase, aminase component (EC 4.1.3.27);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Heme Biosynthesis: protoporphyrin- and coproporphyrin-dependent pathways;Glutamyl-tRNA reductase (EC 1.2.1.70);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Lipoate  transport;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Menaquinone and Phylloquinone Biosynthesis;Ubiquinone/menaquinone biosynthesis methyltransferase UbiE (EC 2.1.1.-);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Menaquinone biosynthesis from chorismate via 1,4-dihydroxy-2-naphthoate;Ubiquinone/menaquinone biosynthesis methyltransferase UbiE (EC 2.1.1.-);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Menaquinone biosynthesis from chorismate via 1,4-dihydroxy-6-naphthoate;Ubiquinone/menaquinone biosynthesis methyltransferase UbiE (EC 2.1.1.-);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Menaquinone Biosynthesis via Futalosine;Ubiquinone/menaquinone biosynthesis methyltransferase UbiE (EC 2.1.1.-);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Molybdopterin cytosine dinucleotide;Periplasmic aromatic aldehyde oxidoreductase, FAD binding subunit YagS;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;NAD and NADP cofactor biosynthesis global;ADP-ribose pyrophosphatase (EC 3.6.1.13);",4
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;NAD and NADP cofactor biosynthesis global;DNA ligase (EC 6.5.1.2);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;NAD and NADP cofactor biosynthesis global;L-aspartate oxidase (EC 1.4.3.16);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;NAD and NADP cofactor biosynthesis global;NAD kinase (EC 2.7.1.23);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;NAD and NADP cofactor biosynthesis global;Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;NAD consumption;DNA ligase (EC 6.5.1.2);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;NAD Niacin HMP;L-aspartate oxidase (EC 1.4.3.16);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;NAD Niacin HMP;Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;NAD regulation;L-aspartate oxidase (EC 1.4.3.16);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;NAD regulation;Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;NADH-dependent reduced ferredoxin:NADDP+ oxidoreductase;Enoyl-CoA hydratase (EC 4.2.1.17);",2
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Niacin, NAD and NADP biosynthesis in plants;L-aspartate oxidase (EC 1.4.3.16);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Niacin, NAD and NADP biosynthesis in plants;NAD kinase (EC 2.7.1.23);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Pantothenate and CoA biosynthesis in plants;3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Plastoquinone Biosynthesis;2-methyl-6-solanyl-1,4-benzoquinone methyltransferase;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Pterin carbinolamine dehydratase;Fumarylacetoacetase (EC 3.7.1.2);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Pterin metabolism 3;Fumarylacetoacetase (EC 3.7.1.2);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Pyridoxin (Vitamin B6) Biosynthesis;D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95);",3
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Riboflavin HMP;Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;riboflavin to FAD;Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Riboflavin, FMN and FAD biosynthesis in plants;Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Riboflavin, FMN and FAD metabolism Extended;Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Test - DHFR;3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Test - DHFR;Alternative dihydrofolate reductase 3;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Test - Folate;Alternative dihydrofolate reductase 3;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Test - Riboflavin;Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Test - Thiamin;Cysteine desulfurase (EC 2.8.1.7), SufS subfamily;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Test - Thiamin;Hydroxymethylpyrimidine ABC transporter, ATPase component;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Test Pyridoxin B6;D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95);",3
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Thiamin biosynthesis LDP;Hydroxymethylpyrimidine ABC transporter, ATPase component;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Thiamin biosynthesis;Hydroxymethylpyrimidine ABC transporter, ATPase component;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Thiamine-biosynthesis;Acetolactate synthase large subunit (EC 2.2.1.6);",2
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Thiamine-biosynthesis;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Thiamine-biosynthesis;Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Thiamine-biosynthesis;Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Ubiquinone biosynthesis -- gjo;Ubiquinone/menaquinone biosynthesis methyltransferase UbiE (EC 2.1.1.-);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Ubiquinone biosynthesis in plants;Ubiquinone/menaquinone biosynthesis methyltransferase UbiE (EC 2.1.1.-);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;Ubiquinone Biosynthesis;Ubiquinone/menaquinone biosynthesis methyltransferase UbiE (EC 2.1.1.-);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;YgfZ;Cysteine desulfurase (EC 2.8.1.7), SufS subfamily;",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;YgfZ;Dihydroorotate dehydrogenase (EC 1.3.3.1);",1
+"SEED;Cofactors, Vitamins, Prosthetic Groups, Pigments;YgfZ;L-aspartate oxidase (EC 1.4.3.16);",1
+"SEED;DNA Metabolism;DNA processing cluster;Protein involved in catabolism of external DNA;",1
+"SEED;DNA Metabolism;DNA Repair Base Excision;DNA ligase (EC 6.5.1.2);",1
+"SEED;DNA Metabolism;DNA Repair Base Excision;DNA polymerase I (EC 2.7.7.7);",2
+"SEED;DNA Metabolism;DNA Repair Base Excision;Single-stranded-DNA-specific exonuclease RecJ (EC 3.1.-.-);",2
+"SEED;DNA Metabolism;DNA Repair Base Excision;Uracil-DNA glycosylase, family 1;",2
+"SEED;DNA Metabolism;DNA repair, bacterial DinG and relatives;DinG family ATP-dependent helicase YoaA;",2
+"SEED;DNA Metabolism;DNA repair, bacterial RecFOR pathway;Single-stranded DNA-binding protein;",1
+"SEED;DNA Metabolism;DNA repair, bacterial RecFOR pathway;Single-stranded-DNA-specific exonuclease RecJ (EC 3.1.-.-);",2
+"SEED;DNA Metabolism;DNA repair, bacterial UmuCD system;SOS-response repressor and protease LexA (EC 3.4.21.88);",2
+"SEED;DNA Metabolism;DNA repair, bacterial UvrD and related helicases;ATP-dependent DNA helicase UvrD/PcrA;",1
+"SEED;DNA Metabolism;DNA repair, bacterial;Single-stranded DNA-binding protein;",1
+"SEED;DNA Metabolism;DNA repair, bacterial;SOS-response repressor and protease LexA (EC 3.4.21.88);",2
+"SEED;DNA Metabolism;DNA repair, UvrABC system;Excinuclease ABC subunit A paralog of unknown function;",1
+"SEED;DNA Metabolism;DNA topoisomerases, Type II, ATP-dependent;DNA gyrase subunit A (EC 5.99.1.3);",1
+"SEED;DNA Metabolism;DNA-replication;DNA polymerase I (EC 2.7.7.7);",2
+"SEED;DNA Metabolism;DNA-replication;Helicase PriA essential for oriC/DnaA-independent DNA replication;",1
+"SEED;DNA Metabolism;DNA-replication;Replicative DNA helicase (DnaB) (EC 3.6.4.12);",1
+"SEED;DNA Metabolism;DNA-replication;Single-stranded-DNA-specific exonuclease RecJ (EC 3.1.-.-);",2
+"SEED;DNA Metabolism;Restriction-Modification System;Type I restriction-modification system, specificity subunit S (EC 3.1.21.3);",1
+"SEED;DNA Metabolism;Type I Restriction-Modification;Type I restriction-modification system, specificity subunit S (EC 3.1.21.3);",1
+"SEED;DNA Metabolism;Uracil-DNA glycosylase;Uracil-DNA glycosylase, family 1;",2
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Acetyl-CoA carboxylase complexes in plants;Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Acyl-CoA thioesterase II;Acyl-CoA thioesterase II (EC 3.1.2.-);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;archaeal lipids bobik;Acetyl-CoA acetyltransferase (EC 2.3.1.9);",2
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Archaeal lipids;Acetyl-CoA acetyltransferase (EC 2.3.1.9);",2
+"SEED;Fatty Acids, Lipids, and Isoprenoids;CDP-diacylglycerol biosynthesis in plants;1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Fatty Acid Biosynthesis FASII;3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100);",3
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Fatty Acid Biosynthesis FASII;Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Fatty Acid Biosynthesis FASII;Acyl carrier protein;",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Fatty Acid Biosynthesis FASII;Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Fatty acid biosynthesis in plants (mitochondrial);Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Fatty acid biosynthesis in plants (plastidial);3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100);",3
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Fatty acid biosynthesis in plants (plastidial);Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Fatty acid biosynthesis in plants (plastidial);Acyl-CoA thioesterase II (EC 3.1.2.-);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Fatty acid biosynthesis in plants (plastidial);Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3);",2
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Fatty acid biosynthesis in plants (plastidial);Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Fatty acid degradation regulons;3-ketoacyl-CoA thiolase (EC 2.3.1.16);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Fatty acid degradation regulons;Enoyl-CoA hydratase (EC 4.2.1.17);",2
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Fatty acid degradation regulons;Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3);",2
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Glycerolipid and Glycerophospholipid Metabolism in Bacteria;1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Glycerolipid and Glycerophospholipid Metabolism in Bacteria;Acyl carrier protein;",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Glycerolipid and Glycerophospholipid Metabolism in Bacteria;Aldehyde dehydrogenase (EC 1.2.1.3);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Isoprenoid biosynthesis in plants, mevalonate branch;Acetyl-CoA acetyltransferase (EC 2.3.1.9);",2
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Isoprenoid biosynthesis in plants, nonmevalonate branch;1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Isoprenoid biosynthesis in plants, nonmevalonate branch;4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2);",2
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Isoprenoid Biosynthesis;1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Isoprenoid Biosynthesis;4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2);",2
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Isoprenoid Biosynthesis;Acetyl-CoA acetyltransferase (EC 2.3.1.9);",2
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Mycobacterial FadD proteins (fatty acid CoA- and AMP- ligases);3-methylmercaptopropionyl-CoA ligase (DmdB);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Nonmevalonate Branch of Isoprenoid Biosynthesis;1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Nonmevalonate Branch of Isoprenoid Biosynthesis;4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2);",2
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Phosphatidylglycerol biosynthesis in plants;1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Phospholipid and Fatty acid biosynthesis related cluster;FIG138576: 3-oxoacyl-[ACP] synthase (EC 2.3.1.41);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Polyhydroxybutyrate metabolism;3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Polyhydroxybutyrate metabolism;3-ketoacyl-CoA thiolase (EC 2.3.1.16);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Polyhydroxybutyrate metabolism;Acetoacetyl-CoA reductase (EC 1.1.1.36);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Polyhydroxybutyrate metabolism;Acetyl-CoA acetyltransferase (EC 2.3.1.9);",2
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Polyhydroxybutyrate metabolism;D-beta-hydroxybutyrate dehydrogenase (EC 1.1.1.30);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Polyhydroxybutyrate metabolism;Enoyl-CoA hydratase (EC 4.2.1.17);",2
+"SEED;Fatty Acids, Lipids, and Isoprenoids;polyprenyl synthesis;1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;polyprenyl synthesis;4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2);",2
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Polyunsaturated fatty acids biosynthesis in plants;Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3);",2
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Triacylglycerol metabolism in plants;1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51);",1
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Unsaturated Fatty Acid biosynthesis in plants;3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100);",3
+"SEED;Fatty Acids, Lipids, and Isoprenoids;Unsaturated Fatty Acid Metabolism;Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3);",2
+"SEED;General Stress Response and Stationary Phase Response;RpoS Regulators SG1;RNA polymerase sigma factor RpoS;",1
+"SEED;Iron acquisition and metabolism;Campylobacter Iron Metabolism;Ferric siderophore transport system, periplasmic binding protein TonB;",2
+"SEED;Iron acquisition and metabolism;Ferrous iron transporter EfeUOB, low-pH-induced;Ferrous iron transport periplasmic protein EfeO, contains peptidase-M75 domain and (frequently) cupredoxin-like domain;",3
+"SEED;Iron acquisition and metabolism;Hemin transport system;Ferric siderophore transport system, periplasmic binding protein TonB;",2
+"SEED;Iron acquisition and metabolism;Iron acquisition in Vibrio;TonB-dependent receptor;",11
+"SEED;Iron acquisition and metabolism;RCJ pfr;Cytochrome c551 peroxidase (EC 1.11.1.5);",1
+"SEED;Iron acquisition and metabolism;Siderophore Pyoverdine;Pyoverdine chromophore precursor synthetase PvdL;",1
+"SEED;Membrane Transport;ABC transporter alkylphosphonate (TC 3.A.1.9.1);Phosphonate ABC transporter ATP-binding protein (TC 3.A.1.9.1);",1
+"SEED;Membrane Transport;ABC transporter branched-chain amino acid (TC 3.A.1.4.1);Branched-chain amino acid transport ATP-binding protein LivF (TC 3.A.1.4.1);",1
+"SEED;Membrane Transport;ABC transporter branched-chain amino acid (TC 3.A.1.4.1);High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1);",1
+"SEED;Membrane Transport;ABC transporter branched-chain amino acid (TC 3.A.1.4.1);High-affinity leucine-specific transport system, periplasmic binding protein LivK (TC 3.A.1.4.1);",1
+"SEED;Membrane Transport;ABC transporter dipeptide (TC 3.A.1.5.2);Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2);",1
+"SEED;Membrane Transport;ABC transporter dipeptide (TC 3.A.1.5.2);Dipeptide transport system permease protein DppB (TC 3.A.1.5.2);",2
+"SEED;Membrane Transport;ABC transporter oligopeptide (TC 3.A.1.5.1);Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1);",1
+"SEED;Membrane Transport;ABC transporter oligopeptide (TC 3.A.1.5.1);Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1);",2
+"SEED;Membrane Transport;General Secretion Pathway;General secretion pathway protein F;",1
+"SEED;Membrane Transport;pVir Plasmid of Campylobacter;Single-stranded DNA-binding protein;",1
+"SEED;Membrane Transport;T6SS BR;ClpB protein;",2
+"SEED;Membrane Transport;Ton and Tol transport systems;Ferric siderophore transport system, periplasmic binding protein TonB;",2
+"SEED;Membrane Transport;Ton and Tol transport systems;MotA/TolQ/ExbB proton channel family protein;",1
+"SEED;Membrane Transport;Ton and Tol transport systems;Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77);",2
+"SEED;Membrane Transport;Ton and Tol transport systems;TonB-dependent receptor;",11
+"SEED;Membrane Transport;Ton and Tol transport systems;TPR domain protein, putative component of TonB system;",2
+"SEED;Membrane Transport;Ton and Tol transport systems;Type I secretion outer membrane protein, TolC precursor;",1
+"SEED;Membrane Transport;Transport of Manganese;Manganese ABC transporter, ATP-binding protein SitB;",1
+"SEED;Membrane Transport;Type VI secretion systems;ClpB protein;",2
+"SEED;Metabolism of Aromatic Compounds;4-Hydroxyphenylacetic acid catabolic pathway;5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase (EC 1.2.1.60);",2
+"SEED;Metabolism of Aromatic Compounds;Anaerobic Aromatic Degredation (benzoate);Acyl-CoA dehydrogenase, short-chain specific (EC 1.3.99.2);",1
+"SEED;Metabolism of Aromatic Compounds;Anaerobic Aromatic Degredation (benzoate);transcriptional regulator, Crp/Fnr family;",1
+"SEED;Metabolism of Aromatic Compounds;Anaerobic benzoate metabolism;Acetyl-CoA acetyltransferase (EC 2.3.1.9);",2
+"SEED;Metabolism of Aromatic Compounds;Aromatic Amin Catabolism;Monoamine oxidase (1.4.3.4);",1
+"SEED;Metabolism of Aromatic Compounds;Benzoate catabolism;3-ketoacyl-CoA thiolase (EC 2.3.1.16);",1
+"SEED;Metabolism of Aromatic Compounds;Central meta-cleavage pathway of aromatic compound degradation;5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase (EC 1.2.1.60);",2
+"SEED;Metabolism of Aromatic Compounds;Gentisate degradation;Fumarylacetoacetase (EC 3.7.1.2);",1
+"SEED;Metabolism of Aromatic Compounds;Homogentisate pathway of aromatic compound degradation;Fumarylacetoacetase (EC 3.7.1.2);",1
+"SEED;Metabolism of Aromatic Compounds;N-heterocyclic aromatic compound degradation;Isoquinoline 1-oxidoreductase beta subunit (EC 1.3.99.16);",1
+"SEED;Metabolism of Aromatic Compounds;n-Phenylalkanoic acid degradation;3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35);",1
+"SEED;Metabolism of Aromatic Compounds;n-Phenylalkanoic acid degradation;3-ketoacyl-CoA thiolase (EC 2.3.1.16);",1
+"SEED;Metabolism of Aromatic Compounds;n-Phenylalkanoic acid degradation;Enoyl-CoA hydratase (EC 4.2.1.17);",2
+"SEED;Metabolism of Aromatic Compounds;n-Phenylalkanoic acid degradation;Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3);",2
+"SEED;Metabolism of Aromatic Compounds;Protocatechuate branch of beta-ketoadipate pathway;4-carboxymuconolactone decarboxylase (EC 4.1.1.44);",1
+"SEED;Metabolism of Aromatic Compounds;Protocatechuate branch of beta-ketoadipate pathway;Protocatechuate 3,4-dioxygenase beta chain (EC 1.13.11.3);",1
+"SEED;Metabolism of Aromatic Compounds;Salicylate and gentisate catabolism;Fumarylacetoacetase (EC 3.7.1.2);",1
+"SEED;Metabolism of Aromatic Compounds;Salicylate and gentisate catabolism;Fumarylacetoacetate (FAA) hydrolase (EC 4.1.1.68);",1
+"SEED;Metabolite damage and its repair or mitigation;RidA family in 981 representative prokaryotes;Acetylglutamate kinase (EC 2.7.2.8);",1
+"SEED;Metabolite damage and its repair or mitigation;RidA family in 981 representative prokaryotes;Acetylornithine deacetylase (EC 3.5.1.16);",1
+"SEED;Metabolite damage and its repair or mitigation;RidA family in 981 representative prokaryotes;Alanine racemase (EC 5.1.1.1);",2
+"SEED;Metabolite damage and its repair or mitigation;RidA family in 981 representative prokaryotes;Argininosuccinate lyase (EC 4.3.2.1);",1
+"SEED;Metabolite damage and its repair or mitigation;RidA family in 981 representative prokaryotes;Argininosuccinate synthase (EC 6.3.4.5);",1
+"SEED;Metabolite damage and its repair or mitigation;RidA family in 981 representative prokaryotes;Aspartate aminotransferase (EC 2.6.1.1);",1
+"SEED;Metabolite damage and its repair or mitigation;RidA family in 981 representative prokaryotes;Cysteine desulfurase (EC 2.8.1.7), SufS subfamily;",1
+"SEED;Metabolite damage and its repair or mitigation;RidA proteins copy with new groups;Aspartate aminotransferase (EC 2.6.1.1);",1
+"SEED;Metabolite damage and its repair or mitigation;RidA proteins copy with new groups;D-amino acid dehydrogenase small subunit (EC 1.4.99.1);",2
+"SEED;Metabolite damage and its repair or mitigation;RidA proteins copy with new groups;Dihydroorotate dehydrogenase (EC 1.3.3.1);",1
+"SEED;Metabolite damage and its repair or mitigation;RidA2 subgroup (YoaB-like);Aspartate aminotransferase (EC 2.6.1.1);",1
+"SEED;Metabolite damage and its repair or mitigation;RidA2 subgroup (YoaB-like);D-amino acid dehydrogenase small subunit (EC 1.4.99.1);",2
+"SEED;Metabolite damage and its repair or mitigation;TN RidA: all subgroups, 981 genomes carbamoyl-P;Acetylglutamate kinase (EC 2.7.2.8);",1
+"SEED;Metabolite damage and its repair or mitigation;TN RidA: all subgroups, 981 genomes carbamoyl-P;Acetylornithine deacetylase (EC 3.5.1.16);",1
+"SEED;Metabolite damage and its repair or mitigation;TN RidA: all subgroups, 981 genomes carbamoyl-P;Argininosuccinate lyase (EC 4.3.2.1);",1
+"SEED;Metabolite damage and its repair or mitigation;TN RidA: all subgroups, 981 genomes carbamoyl-P;Argininosuccinate synthase (EC 6.3.4.5);",1
+"SEED;Metabolite damage and its repair or mitigation;TN RidA: all subgroups, 981 genomes PLP;Alanine racemase (EC 5.1.1.1);",2
+"SEED;Metabolite damage and its repair or mitigation;TN RidA: all subgroups, 981 genomes PLP;Aspartate aminotransferase (EC 2.6.1.1);",1
+"SEED;Metabolite damage and its repair or mitigation;TN RidA: all subgroups, 981 genomes PLP;Cysteine desulfurase (EC 2.8.1.7), SufS subfamily;",1
+"SEED;Miscellaneous;At1g48360;DinG family ATP-dependent helicase YoaA;",2
+"SEED;Miscellaneous;At1g69340 At2g40600;COG2110, Macro domain, possibly ADP-ribose binding module;",1
+"SEED;Miscellaneous;At5g04520 AT1G06240;Acyl-CoA thioesterase II (EC 3.1.2.-);",1
+"SEED;Miscellaneous;At5g04520 AT1G06240;Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42);",1
+"SEED;Miscellaneous;COG0277;D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95);",3
+"SEED;Miscellaneous;COG0523-Histidine;Urocanate hydratase (EC 4.2.1.49);",1
+"SEED;Miscellaneous;COG2363;Cysteine desulfurase (EC 2.8.1.7), SufS subfamily;",1
+"SEED;Miscellaneous;Competence or DNA damage-inducible protein CinA and related protein families;Poly(A) polymerase (EC 2.7.7.19);",1
+"SEED;Miscellaneous;Conserved gene cluster possibly involved in RNA metabolism;Cysteinyl-tRNA synthetase (EC 6.1.1.16);",1
+"SEED;Miscellaneous;Conserved gene cluster possibly involved in RNA metabolism;Serine acetyltransferase (EC 2.3.1.30);",1
+"SEED;Miscellaneous;EC 4. 1. 1.- Carboxy-lyases;Aspartate 1-decarboxylase (EC 4.1.1.11);",1
+"SEED;Miscellaneous;EC 4. 1. 1.- Carboxy-lyases;Oxalyl-CoA decarboxylase (EC 4.1.1.8);",1
+"SEED;Miscellaneous;EC 6.3.4.- Ligases that form carbon-nitrogen bonds;Argininosuccinate synthase (EC 6.3.4.5);",1
+"SEED;Miscellaneous;EC 6.3.4.- Ligases that form carbon-nitrogen bonds;CTP synthase (EC 6.3.4.2);",1
+"SEED;Miscellaneous;IojapClusters;Adenylate cyclase (EC 4.6.1.1);",1
+"SEED;Miscellaneous;IojapClusters;Inorganic pyrophosphatase (EC 3.6.1.1);",1
+"SEED;Miscellaneous;IojapClusters;Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18);",1
+"SEED;Miscellaneous;Metabolite repair;Alkyl hydroperoxide reductase protein F (EC 1.6.4.-);",1
+"SEED;Miscellaneous;Metabolite repair;D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95);",3
+"SEED;Miscellaneous;Metabolite repair;Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase (EC 2.6.1.19);",2
+"SEED;Miscellaneous;Metabolite repair;Hydantoin racemase (EC 5.1.99.-);",2
+"SEED;Miscellaneous;Metabolite repair;Malate dehydrogenase (EC 1.1.1.37);",1
+"SEED;Miscellaneous;Metabolite repair;NAD-dependent malic enzyme (EC 1.1.1.38);",1
+"SEED;Miscellaneous;Metabolite repair;Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.15);",1
+"SEED;Miscellaneous;Metabolite repair;Succinate-semialdehyde dehydrogenase [NADP+] (EC 1.2.1.79);",1
+"SEED;Miscellaneous;Omega-amidase KE;Aspartate aminotransferase (EC 2.6.1.1);",1
+"SEED;Miscellaneous;Omega-amidase KE2;2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54);",1
+"SEED;Miscellaneous;Omega-amidase KE2;Acetylglutamate kinase (EC 2.7.2.8);",1
+"SEED;Miscellaneous;Omega-amidase KE2;Argininosuccinate synthase (EC 6.3.4.5);",1
+"SEED;Miscellaneous;Omega-amidase KE2;Aspartate aminotransferase (EC 2.6.1.1);",1
+"SEED;Miscellaneous;Omega-amidase KE2;Diaminopimelate decarboxylase (EC 4.1.1.20);",1
+"SEED;Miscellaneous;Synechocystis experimental;prolyl oligopeptidase family protein;",1
+"SEED;Miscellaneous;YebC;Acyl-CoA thioesterase II (EC 3.1.2.-);",1
+"SEED;Miscellaneous;YgfZ-Fe-S;L-aspartate oxidase (EC 1.4.3.16);",1
+"SEED;Mitochondrial electron transport system in plants;F0F1-type ATP synthase in plants (mitochondrial);ATP synthase delta chain (EC 3.6.3.14);",1
+"SEED;Motility and Chemotaxis;Bacterial Chemotaxis;Chemotaxis protein CheV (EC 2.7.3.-);",1
+"SEED;Motility and Chemotaxis;Flagellar motility;Chemotaxis protein CheV (EC 2.7.3.-);",1
+"SEED;Motility and Chemotaxis;Flagellar motility;Flagellar biosynthesis protein FlhA;",1
+"SEED;Motility and Chemotaxis;Flagellar motility;Flagellum-specific ATP synthase FliI;",2
+"SEED;Motility and Chemotaxis;Flagellar motility;RNA polymerase sigma-54 factor RpoN;",1
+"SEED;Motility and Chemotaxis;Flagellum in Campylobacter;Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129);",1
+"SEED;Motility and Chemotaxis;Flagellum;Flagellar assembly protein FliH;",1
+"SEED;Motility and Chemotaxis;Flagellum;Flagellar biosynthesis protein FlhA;",1
+"SEED;Motility and Chemotaxis;Flagellum;Flagellar biosynthesis protein FliP;",2
+"SEED;Motility and Chemotaxis;Flagellum;Flagellar hook-associated protein FlgK;",1
+"SEED;Motility and Chemotaxis;Flagellum;Flagellum-specific ATP synthase FliI;",2
+"SEED;Motility and Chemotaxis;Flagellum;RNA polymerase sigma-54 factor RpoN;",1
+"SEED;Nitrogen Metabolism;Allantoin Utilization;Ureidoglycolate dehydrogenase (EC 1.1.1.154);",1
+"SEED;Nitrogen Metabolism;Ammonia assimilation;Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42);",1
+"SEED;Nitrogen Metabolism;Ammonia assimilation;Glutamine synthetase type I (EC 6.3.1.2);",1
+"SEED;Nitrogen Metabolism;Nitrate and nitrite ammonification;Nitrate/nitrite transporter;",1
+"SEED;Nitrogen Metabolism;Nitrate and nitrite ammonification;Nitrite reductase [NAD(P)H] large subunit (EC 1.7.1.4);",1
+"SEED;Nitrogen Metabolism;Nitrate and nitrite ammonification;Respiratory nitrate reductase beta chain (EC 1.7.99.4);",1
+"SEED;Nucleosides and Nucleotides;De Novo Pyrimidine Synthesis;Dihydroorotate dehydrogenase (EC 1.3.3.1);",1
+"SEED;Nucleosides and Nucleotides;De Novo Pyrimidine Synthesis;Uracil permease;",1
+"SEED;Nucleosides and Nucleotides;Hydantoin metabolism;Hydantoin racemase (EC 5.1.99.-);",2
+"SEED;Nucleosides and Nucleotides;Purine conversions;5'-nucleotidase (EC 3.1.3.5);",3
+"SEED;Nucleosides and Nucleotides;Purine conversions;Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1);",1
+"SEED;Nucleosides and Nucleotides;Purine conversions;Polyphosphate kinase (EC 2.7.4.1);",1
+"SEED;Nucleosides and Nucleotides;Purine Utilization;Periplasmic aromatic aldehyde oxidoreductase, FAD binding subunit YagS;",1
+"SEED;Nucleosides and Nucleotides;Purine Utilization;Xanthine dehydrogenase iron-sulfur subunit (EC 1.17.1.4);",1
+"SEED;Nucleosides and Nucleotides;Purine Utilization;Xanthine dehydrogenase, iron-sulfur cluster and FAD-binding subunit A (1.17.1.4);",1
+"SEED;Nucleosides and Nucleotides;Purine Utilization;Xanthine dehydrogenase, molybdenum binding subunit (EC 1.17.1.4);",1
+"SEED;Nucleosides and Nucleotides;pyrimidine conversions;5'-nucleotidase (EC 3.1.3.5);",3
+"SEED;Nucleosides and Nucleotides;pyrimidine conversions;CTP synthase (EC 6.3.4.2);",1
+"SEED;Nucleosides and Nucleotides;pyrimidine conversions;Thioredoxin reductase (EC 1.8.1.9);",2
+"SEED;Nucleosides and Nucleotides;Pyrimidine de novo biosynthesis in plants;CTP synthase (EC 6.3.4.2);",1
+"SEED;Nucleosides and Nucleotides;Pyrimidine utilization;Uracil permease;",1
+"SEED;Nucleotide sugars;UDP-glucose and UDP-galactose biosynthesis in plants;Inorganic pyrophosphatase (EC 3.6.1.1);",1
+"SEED;Nucleotide sugars;UDP-glucose and UDP-galactose biosynthesis in plants;Pyrophosphate-energized proton pump (EC 3.6.1.1);",1
+"SEED;Phages, Prophages, Transposable elements, Plasmids;Phage carbon metabolism;Transaldolase (EC 2.2.1.2);",1
+"SEED;Phages, Prophages, Transposable elements, Plasmids;Staphylococcal pathogenicity islands SaPI;Heat shock protein 60 family chaperone GroEL;",1
+"SEED;Phages, Prophages, Transposable elements, Plasmids;Staphylococcal pathogenicity islands SaPI;tmRNA-binding protein SmpB;",1
+"SEED;Phages, Prophages, Transposable elements;T7-like cyanophage core proteins;Transaldolase (EC 2.2.1.2);",1
+"SEED;Phosphorus Metabolism;High affinity phosphate transporter and control of PHO regulon;Polyphosphate kinase (EC 2.7.4.1);",1
+"SEED;Phosphorus Metabolism;Phosphate metabolism;1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51);",1
+"SEED;Phosphorus Metabolism;Phosphate metabolism;Inorganic pyrophosphatase (EC 3.6.1.1);",1
+"SEED;Phosphorus Metabolism;Phosphate metabolism;Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1);",1
+"SEED;Phosphorus Metabolism;Phosphate metabolism;Polyphosphate kinase (EC 2.7.4.1);",1
+"SEED;Phosphorus Metabolism;Phosphate metabolism;Probable low-affinity inorganic phosphate transporter;",1
+"SEED;Phosphorus Metabolism;Phosphate metabolism;Pyrophosphate-energized proton pump (EC 3.6.1.1);",1
+"SEED;Phosphorus Metabolism;Phosphate metabolism;Pyrophosphate-specific outer membrane porin OprO;",1
+"SEED;Photosynthesis;Photosystem I;photosystem I assembly related protein Ycf3;",1
+"SEED;Plant cell walls and outer surfaces;Xylan degradation in plants;Beta-xylosidase (EC 3.2.1.37);",1
+"SEED;Plant cell walls and outer surfaces;Xylan degradation in plants;Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8);",1
+"SEED;Plant Glucosinolates;Homomethionine biosynthesis and methionine chain elongation pathway for glucosinolates in plants;3-isopropylmalate dehydratase small subunit (EC 4.2.1.33);",1
+"SEED;Potassium metabolism;Potassium homeostasis;Potassium efflux system KefA protein;",2
+"SEED;Potassium metabolism;Potassium homeostasis;Potassium-transporting ATPase B chain (EC 3.6.3.12) (TC 3.A.3.7.1);",1
+"SEED;Predictions based on plant-prokaryote comparative analysis;At1g14345;LSU ribosomal protein L34p;",1
+"SEED;Predictions based on plant-prokaryote comparative analysis;At1g21350;Alkyl hydroperoxide reductase protein F (EC 1.6.4.-);",1
+"SEED;Predictions based on plant-prokaryote comparative analysis;At2g23840;Cysteinyl-tRNA synthetase (EC 6.1.1.16);",1
+"SEED;Predictions based on plant-prokaryote comparative analysis;At2g23840;DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6);",2
+"SEED;Predictions based on plant-prokaryote comparative analysis;At4g10620 At3g57180 At3g47450;Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18);",1
+"SEED;Predictions based on plant-prokaryote comparative analysis;At4g10620 At3g57180 At3g47450;SSU ribosomal protein S20p;",2
+"SEED;Protein Metabolism;Diphthamide biosynthesis;Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4);",1
+"SEED;Protein Metabolism;EC 6.1.1.- Ligases forming aminoacyl-tRNA and related compounds;Cysteinyl-tRNA synthetase (EC 6.1.1.16);",1
+"SEED;Protein Metabolism;Glycine reductase, sarcosine reductase and betaine reductase;Thioredoxin reductase (EC 1.8.1.9);",2
+"SEED;Protein Metabolism;GroEL GroES;Heat shock protein 60 family chaperone GroEL;",1
+"SEED;Protein Metabolism;Peptide methionine sulfoxide reductase;Peptide methionine sulfoxide reductase MsrA (EC 1.8.4.11);",1
+"SEED;Protein Metabolism;Proteasome bacterial;ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92);",1
+"SEED;Protein Metabolism;Proteasome bacterial;ATP-dependent protease La (EC 3.4.21.53) Type I;",1
+"SEED;Protein Metabolism;Proteasome eukaryotic;proteasome regulatory subunit Rpt1;",1
+"SEED;Protein Metabolism;Proteasome eukaryotic;proteasome regulatory subunit Rpt6;",1
+"SEED;Protein Metabolism;Protein chaperones;Chaperone protein DnaK;",1
+"SEED;Protein Metabolism;Protein chaperones;ClpB protein;",2
+"SEED;Protein Metabolism;Proteolysis in bacteria, ATP-dependent;ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92);",1
+"SEED;Protein Metabolism;Proteolysis in bacteria, ATP-dependent;ATP-dependent protease La (EC 3.4.21.53) Type I;",1
+"SEED;Protein Metabolism;Proteolysis in bacteria, ATP-dependent;ClpB protein;",2
+"SEED;Protein Metabolism;Ribosomal protein S12p Asp methylthiotransferase;SSU ribosomal protein S12p (S23e);",2
+"SEED;Protein Metabolism;Ribosome biogenesis bacterial;LSU m5C1962 methyltransferase RlmI;",1
+"SEED;Protein Metabolism;Ribosome LSU bacterial;LSU ribosomal protein L11p (L12e);",1
+"SEED;Protein Metabolism;Ribosome LSU bacterial;LSU ribosomal protein L19p;",1
+"SEED;Protein Metabolism;Ribosome LSU bacterial;LSU ribosomal protein L2p (L8e);",1
+"SEED;Protein Metabolism;Ribosome LSU bacterial;LSU ribosomal protein L34p;",1
+"SEED;Protein Metabolism;Ribosome LSU bacterial;LSU ribosomal protein L3p (L3e);",1
+"SEED;Protein Metabolism;Ribosome LSU bacterial;LSU ribosomal protein L4p (L1e);",1
+"SEED;Protein Metabolism;Ribosome LSU bacterial;LSU ribosomal protein L6p (L9e);",1
+"SEED;Protein Metabolism;Ribosome SSU bacterial;SSU ribosomal protein S12p (S23e);",2
+"SEED;Protein Metabolism;Ribosome SSU bacterial;SSU ribosomal protein S1p;",1
+"SEED;Protein Metabolism;Ribosome SSU bacterial;SSU ribosomal protein S20p;",2
+"SEED;Protein Metabolism;Ribosome SSU bacterial;SSU ribosomal protein S2p (SAe);",1
+"SEED;Protein Metabolism;Ribosome SSU bacterial;SSU ribosomal protein S4p (S9e);",1
+"SEED;Protein Metabolism;Ribosome SSU mitochondrial;SSU ribosomal protein MRP10, mitochondrial;",1
+"SEED;Protein Metabolism;Ribosome SSU mitochondrial;SSU ribosomal protein S23mt, mitochondrial;",1
+"SEED;Protein Metabolism;Signal peptidase;Signal peptidase I (EC 3.4.21.89);",1
+"SEED;Protein Metabolism;Single-copy ribosomal proteins;LSU ribosomal protein L11p (L12e);",1
+"SEED;Protein Metabolism;Single-copy ribosomal proteins;LSU ribosomal protein L19p;",1
+"SEED;Protein Metabolism;Single-copy ribosomal proteins;LSU ribosomal protein L2p (L8e);",1
+"SEED;Protein Metabolism;Single-copy ribosomal proteins;LSU ribosomal protein L34p;",1
+"SEED;Protein Metabolism;Single-copy ribosomal proteins;LSU ribosomal protein L3p (L3e);",1
+"SEED;Protein Metabolism;Single-copy ribosomal proteins;LSU ribosomal protein L4p (L1e);",1
+"SEED;Protein Metabolism;Single-copy ribosomal proteins;LSU ribosomal protein L6p (L9e);",1
+"SEED;Protein Metabolism;Single-copy ribosomal proteins;SSU ribosomal protein S12p (S23e);",2
+"SEED;Protein Metabolism;Single-copy ribosomal proteins;SSU ribosomal protein S20p;",2
+"SEED;Protein Metabolism;Single-copy ribosomal proteins;SSU ribosomal protein S2p (SAe);",1
+"SEED;Protein Metabolism;Single-copy ribosomal proteins;SSU ribosomal protein S4p (S9e);",1
+"SEED;Protein Metabolism;Trans-translation by stalled ribosomes;tmRNA-binding protein SmpB;",1
+"SEED;Protein Metabolism;Translation elongation factor G family;Translation elongation factor G;",3
+"SEED;Protein Metabolism;Translation elongation factors bacterial;Translation elongation factor G;",3
+"SEED;Protein Metabolism;Translation termination factors bacterial;tmRNA-binding protein SmpB;",1
+"SEED;Protein Metabolism;tRNA aminoacylation, Cys;Cysteinyl-tRNA synthetase (EC 6.1.1.16);",1
+"SEED;Protein Metabolism;tRNA synthetase relationships;Cysteinyl-tRNA synthetase (EC 6.1.1.16);",1
+"SEED;Protein Metabolism;Universal GTPases;GTP-binding protein EngA;",2
+"SEED;Protein Metabolism;Universal GTPases;GTP-binding protein Era;",1
+"SEED;Protein Metabolism;Universal GTPases;GTP-binding protein TypA/BipA;",1
+"SEED;Protein Metabolism;Universal GTPases;Translation elongation factor G;",3
+"SEED;Regulation and Cell signaling;cAMP signaling in bacteria;Adenylate cyclase (EC 4.6.1.1);",1
+"SEED;Regulation and Cell signaling;cAMP signaling in bacteria;ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92);",1
+"SEED;Regulation and Cell signaling;cAMP signaling in bacteria;Putative hemin-binding lipoprotein;",1
+"SEED;Regulation and Cell signaling;DNA-binding regulatory proteins, strays;LysR family transcriptional regulator YneJ;",1
+"SEED;Regulation and Cell signaling;Iojap;Adenylate cyclase (EC 4.6.1.1);",1
+"SEED;Regulation and Cell signaling;Iojap;Inorganic pyrophosphatase (EC 3.6.1.1);",1
+"SEED;Regulation and Cell signaling;Iojap;Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18);",1
+"SEED;Regulation and Cell signaling;Murein hydrolase regulation and cell death;CidA-associated membrane protein CidB;",1
+"SEED;Regulation and Cell signaling;Murein hydrolase regulation and cell death;Holin-like protein CidA;",1
+"SEED;Regulation and Cell signaling;Murein hydrolase regulation and cell death;LysR family regulatory protein CidR;",1
+"SEED;Regulation and Cell signaling;Orphan regulatory proteins;Glycine cleavage system transcriptional activator;",1
+"SEED;Regulation and Cell signaling;Sex pheromones in Enterococcus faecalis and other Firmicutes;Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1);",1
+"SEED;Regulation and Cell signaling;Stringent Response, (p)ppGpp metabolism;GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II;",1
+"SEED;Regulation and Cell signaling;Zinc regulated enzymes;Cysteinyl-tRNA synthetase (EC 6.1.1.16);",1
+"SEED;Respiration;ATP Synthases HGM;ATP synthase delta chain (EC 3.6.3.14);",1
+"SEED;Respiration;Biogenesis of cytochrome c oxidases;Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA;",1
+"SEED;Respiration;CO Dehydrogenase;Carbon monoxide dehydrogenase small chain (EC 1.2.99.2);",1
+"SEED;Respiration;F0F1-type ATP synthase;ATP synthase delta chain (EC 3.6.3.14);",1
+"SEED;Respiration;Respiration / HGM;Nitrate/nitrite transporter NarK;",1
+"SEED;Respiration;Respiration / HGM;Nitrite reductase [NAD(P)H] large subunit (EC 1.7.1.4);",1
+"SEED;Respiration;Respiration / HGM;Respiratory nitrate reductase beta chain (EC 1.7.99.4);",1
+"SEED;Respiration;Respiration / HGM;Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1);",1
+"SEED;Respiration;Respiration / Human gut microbiome;Nitrate/nitrite transporter NarK;",1
+"SEED;Respiration;Respiration / Human gut microbiome;Nitrite reductase [NAD(P)H] large subunit (EC 1.7.1.4);",1
+"SEED;Respiration;Respiration / Human gut microbiome;Respiratory nitrate reductase beta chain (EC 1.7.99.4);",1
+"SEED;Respiration;Respiration / Human gut microbiome;Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1);",1
+"SEED;Respiration;Respiration HGM;Nitrate/nitrite transporter NarK;",1
+"SEED;Respiration;Respiration HGM;Nitrite reductase [NAD(P)H] large subunit (EC 1.7.1.4);",1
+"SEED;Respiration;Respiration HGM;Respiratory nitrate reductase beta chain (EC 1.7.99.4);",1
+"SEED;Respiration;Respiration HGM;Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1);",1
+"SEED;Respiration;Respiratory Complex I;NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3);",1
+"SEED;Respiration;Respiratory Complex I;NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3);",1
+"SEED;Respiration;Respiratory dehydrogenases 1;D-amino acid dehydrogenase small subunit (EC 1.4.99.1);",2
+"SEED;Respiration;Respiratory dehydrogenases 1;L-lactate dehydrogenase (EC 1.1.2.3);",1
+"SEED;Respiration;Respiratory dehydrogenases 1;NADH dehydrogenase (EC 1.6.99.3);",2
+"SEED;Respiration;Succinate dehydrogenase;Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1);",1
+"SEED;RNA Metabolism;KEOPS complex;TsaD/Kae1/Qri7 protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA;",1
+"SEED;RNA Metabolism;Polyadenylation bacterial;Poly(A) polymerase (EC 2.7.7.19);",1
+"SEED;RNA Metabolism;Queuosine exploration RZ;Permease of the drug/metabolite transporter (DMT) superfamily;",1
+"SEED;RNA Metabolism;Queuosine-Archaeosine Biosynthesis;Permease of the drug/metabolite transporter (DMT) superfamily;",1
+"SEED;RNA Metabolism;RNA polymerase bacterial;DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6);",2
+"SEED;RNA Metabolism;RNA polymerase bacterial;DNA-directed RNA polymerase beta subunit (EC 2.7.7.6);",1
+"SEED;RNA Metabolism;RNA polymerase bacterial;DNA-directed RNA polymerase omega subunit (EC 2.7.7.6);",1
+"SEED;RNA Metabolism;rRNA modification Archaea;tRNA:Cm32/Um32 methyltransferase;",1
+"SEED;RNA Metabolism;rRNA modification bacteria;LSU m5C1962 methyltransferase RlmI;",1
+"SEED;RNA Metabolism;rRNA modification bacteria;rRNA small subunit methyltransferase I;",1
+"SEED;RNA Metabolism;t(6)A synthesis in Archaea and Eukaryotes;TsaD/Kae1/Qri7 protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA;",1
+"SEED;RNA Metabolism;t(6)A synthesis in bacteria;TsaD/Kae1/Qri7 protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA;",1
+"SEED;RNA Metabolism;t6A synthesis in Archaea and Eukaryotes;TsaD/Kae1/Qri7 protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA;",1
+"SEED;RNA Metabolism;t6A synthesis in bacteria;TsaD/Kae1/Qri7 protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA;",1
+"SEED;RNA Metabolism;Test Q;Permease of the drug/metabolite transporter (DMT) superfamily;",1
+"SEED;RNA Metabolism;Threonylcarbamoyladenosine;TsaD/Kae1/Qri7 protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA;",1
+"SEED;RNA Metabolism;Transcription factors bacterial;Regulator of nucleoside diphosphate kinase;",1
+"SEED;RNA Metabolism;Transcription factors bacterial;Transcription antitermination protein NusG;",1
+"SEED;RNA Metabolism;Transcription factors bacterial;Transcription termination protein NusA;",2
+"SEED;RNA Metabolism;Transcription initiation, bacterial sigma factors;RNA polymerase sigma factor RpoS;",1
+"SEED;RNA Metabolism;Transcription initiation, bacterial sigma factors;RNA polymerase sigma-54 factor RpoN;",1
+"SEED;RNA Metabolism;tRNA modification Archaea;Cysteine desulfurase (EC 2.8.1.7), SufS subfamily;",1
+"SEED;RNA Metabolism;tRNA modification Archaea;GTP-binding protein Era;",1
+"SEED;RNA Metabolism;tRNA modification Archaea;Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77);",2
+"SEED;RNA Metabolism;tRNA modification Archaea;tRNA:Cm32/Um32 methyltransferase;",1
+"SEED;RNA Metabolism;tRNA mods Archaea;Cysteine desulfurase (EC 2.8.1.7), SufS subfamily;",1
+"SEED;RNA Metabolism;tRNA mods Archaea;GTP-binding protein Era;",1
+"SEED;RNA Metabolism;tRNA mods Archaea;Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77);",2
+"SEED;RNA Metabolism;tRNA mods Archaea;tRNA:Cm32/Um32 methyltransferase;",1
+"SEED;RNA Metabolism;tRNA processing;Ribonuclease BN (EC 3.1.-.-);",3
+"SEED;RNA Metabolism;tRNA processing;tRNAHis-5'-guanylyltransferase;",1
+"SEED;RNA Metabolism;Wyeosine-MimG Biosynthesis;Thioredoxin reductase (EC 1.8.1.9);",2
+"SEED;RNA Metabolism;Wyeosine-MimG Biosynthesis;tRNA methylase YGL050w homolog Wyeosine biosynthesis;",1
+"SEED;RNA Metabolism;YrdC-YciO-Sua5 and associated protein families;TsaD/Kae1/Qri7 protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA;",1
+"SEED;RNA Metabolism;YrdC-YciO;TsaD/Kae1/Qri7 protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA;",1
+"SEED;Secondary Metabolism;Alkaloid biosynthesis from L-lysine;Oxalyl-CoA decarboxylase (EC 4.1.1.8);",1
+"SEED;Secondary Metabolism;Auxin biosynthesis;Monoamine oxidase (1.4.3.4);",1
+"SEED;Stress Response;At5g63290;ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92);",1
+"SEED;Stress Response;At5g63290;Chaperone protein DnaK;",1
+"SEED;Stress Response;At5g63290;Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.15);",1
+"SEED;Stress Response;At5g63290;rRNA small subunit methyltransferase I;",1
+"SEED;Stress Response;At5g63290;tmRNA-binding protein SmpB;",1
+"SEED;Stress Response;Choline and Betaine Uptake and Betaine Biosynthesis;High-affinity choline uptake protein BetT;",1
+"SEED;Stress Response;Ectoine biosynthesis and regulation;Aspartokinase (EC 2.7.2.4) associated with ectoine biosynthesis;",1
+"SEED;Stress Response;Ectoine biosynthesis and regulation;L-ectoine synthase (EC 4.2.1.-);",1
+"SEED;Stress Response;FOL Commensurate regulon activation;RND efflux system, inner membrane transporter CmeB;",1
+"SEED;Stress Response;Glutathione: Non-redox reactions;Lactoylglutathione lyase (EC 4.4.1.5);",1
+"SEED;Stress Response;Gycosylglycerates;Mannose-1-phosphate guanylyltransferase (GDP) (EC 2.7.7.22);",1
+"SEED;Stress Response;Heat shock dnaK gene cluster extended;Chaperone protein DnaK;",1
+"SEED;Stress Response;Heat shock dnaK gene cluster extended;Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.15);",1
+"SEED;Stress Response;Heat shock dnaK gene cluster extended;rRNA small subunit methyltransferase I;",1
+"SEED;Stress Response;Heat shock dnaK gene cluster extended;tmRNA-binding protein SmpB;",1
+"SEED;Stress Response;Housecleaning nucleoside triphosphate pyrophosphatases;Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.15);",1
+"SEED;Stress Response;Nudix KE;ADP-ribose pyrophosphatase (EC 3.6.1.13);",4
+"SEED;Stress Response;Nudix proteins (nucleoside triphosphate hydrolases);ADP-ribose pyrophosphatase (EC 3.6.1.13);",4
+"SEED;Stress Response;Oxidative stress;Organic hydroperoxide resistance protein;",1
+"SEED;Stress Response;Oxidative stress;transcriptional regulator, Crp/Fnr family;",1
+"SEED;Stress Response;Oxygen stress response / Human gut microbiome;Alkyl hydroperoxide reductase protein F (EC 1.6.4.-);",1
+"SEED;Stress Response;Oxygen stress response / Human gut microbiome;Thioredoxin reductase (EC 1.8.1.9);",2
+"SEED;Stress Response;Periplasmic Stress Response;HtrA protease/chaperone protein;",1
+"SEED;Stress Response;Protection from Reactive Oxygen Species;Cytochrome c551 peroxidase (EC 1.11.1.5);",1
+"SEED;Stress Response;Synthesis of osmoregulated periplasmic glucans;Phosphoglycerol transferase I (EC 2.7.8.20);",1
+"SEED;Stress Response;Uptake of selenate and selenite;Various polyols ABC transporter, periplasmic substrate-binding protein;",1
+"SEED;Sulfur Metabolism;Alkanesulfonate assimilation;Alkanesulfonates ABC transporter ATP-binding protein;",1
+"SEED;Sulfur Metabolism;Alkanesulfonate assimilation;Alkanesulfonates transport system permease protein;",2
+"SEED;Sulfur Metabolism;Alkanesulfonate assimilation;probable dibenzothiophene desulfurization enzyme;",1
+"SEED;Sulfur Metabolism;Alkanesulfonates Utilization;Alkanesulfonates ABC transporter ATP-binding protein;",1
+"SEED;Sulfur Metabolism;Alkanesulfonates Utilization;Alkanesulfonates transport system permease protein;",2
+"SEED;Sulfur Metabolism;At5g37530 (CsdL protein family);Cysteine desulfurase (EC 2.8.1.7), SufS subfamily;",1
+"SEED;Sulfur Metabolism;At5g37530 (CsdL protein family);tRNA-specific 2-thiouridylase MnmA;",1
+"SEED;Sulfur Metabolism;Bacterial pathways for dimethylsulfoniopropionate and acrylate catabolism;3-methylmercaptopropionyl-CoA ligase (DmdB);",1
+"SEED;Sulfur Metabolism;Dimethylsulfoniopropionate (DMSP) mineralization, gjo;3-methylmercaptopropionyl-CoA ligase (DmdB);",1
+"SEED;Sulfur Metabolism;Dimethylsulfoniopropionate (DMSP) mineralization, WBW;3-methylmercaptopropionyl-CoA ligase (DmdB);",1
+"SEED;Sulfur Metabolism;Dimethylsulfoniopropionate (DMSP) mineralization;3-methylmercaptopropionyl-CoA ligase (DmdB);",1
+"SEED;Sulfur Metabolism;Galactosylceramide and Sulfatide metabolism;Beta-galactosidase (EC 3.2.1.23);",3
+"SEED;Sulfur Metabolism;Thioredoxin-disulfide reductase;Alkyl hydroperoxide reductase protein F (EC 1.6.4.-);",1
+"SEED;Sulfur Metabolism;Thioredoxin-disulfide reductase;Thioredoxin reductase (EC 1.8.1.9);",2
+"SEED;Sulfur Metabolism;Utilization of glutathione as a sulphur source;Putative glutathione transporter, permease component;",2
+"SEED;Thiamin;Thiamin HMP;Hydroxymethylpyrimidine ABC transporter, ATPase component;",1
+"SEED;Unclassified;CBSS-195102.1.peg.963;3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100);",3
+"SEED;Unclassified;CBSS-195102.1.peg.963;Dipeptide transport system permease protein DppB (TC 3.A.1.5.2);",2
+"SEED;Unclassified;CBSS-195102.1.peg.963;Malate dehydrogenase (EC 1.1.1.37);",1
+"SEED;Unclassified;CBSS-227321.4.peg.3751;Branched-chain amino acid transport ATP-binding protein LivF (TC 3.A.1.4.1);",1
+"SEED;Unclassified;CBSS-227321.4.peg.3751;High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1);",1
+"SEED;Unclassified;CBSS-227321.4.peg.3751;TonB-dependent receptor;",11
+"SEED;Unclassified;CBSS-565654.4.peg.3098 cAD1 cluster;NADH dehydrogenase (EC 1.6.99.3);",2
+"SEED;Unclassified;Chorismate: Intermediate for synthesis of Tryptophan, PAPA antibiotics, PABA, 3-hydroxyanthranilate and more.;Anthranilate synthase, aminase component (EC 4.1.3.27);",1
+"SEED;Unclassified;CoA Test;3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11);",1
+"SEED;Unclassified;CoA Test;Aspartate 1-decarboxylase (EC 4.1.1.11);",1
+"SEED;Unclassified;Family 02 Ca2+ P-type ATPase;Aldehyde dehydrogenase (EC 1.2.1.3);",1
+"SEED;Unclassified;Family 02 Ca2+ P-type ATPase;Heavy metal RND efflux outer membrane protein, CzcC family;",1
+"SEED;Unclassified;Family 23 FUPA23 P-type ATPase;2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54);",1
+"SEED;Unclassified;Family 23 FUPA23 P-type ATPase;Anthranilate synthase, aminase component (EC 4.1.3.27);",1
+"SEED;Unclassified;Family 23 FUPA23 P-type ATPase;Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2);",1
+"SEED;Unclassified;Family 23 FUPA23 P-type ATPase;Dipeptide transport system permease protein DppB (TC 3.A.1.5.2);",2
+"SEED;Unclassified;Family 23 FUPA23 P-type ATPase;Enoyl-CoA hydratase (EC 4.2.1.17);",2
+"SEED;Unclassified;Family 24 FUPA24 P-type ATPase ver.1;L-ectoine synthase (EC 4.2.1.-);",1
+"SEED;Unclassified;Family 24 FUPA24 P-type ATPase;L-ectoine synthase (EC 4.2.1.-);",1
+"SEED;Unclassified;Heme and Siroheme Biosynthesis;Glutamyl-tRNA reductase (EC 1.2.1.70);",1
+"SEED;Unclassified;Heme and Siroheme Biosynthesis;Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.15);",1
+"SEED;Unclassified;Heme LB;Glutamyl-tRNA reductase (EC 1.2.1.70);",1
+"SEED;Unclassified;Heme LB;Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.15);",1
+"SEED;Unclassified;NAD and NADP - test subsystem;L-aspartate oxidase (EC 1.4.3.16);",1
+"SEED;Unclassified;NAD and NADP - test subsystem;NAD kinase (EC 2.7.1.23);",1
+"SEED;Unclassified;NAD and NADP - test subsystem;Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18);",1
+"SEED;Unclassified;PROSC YggS;Adenylate cyclase (EC 4.6.1.1);",1
+"SEED;Unclassified;PROSC YggS;Aspartate aminotransferase (EC 2.6.1.1);",1
+"SEED;Unclassified;PROSC YggS;Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.5.1.12);",1
+"SEED;Unclassified;PROSC YggS;Homoserine O-acetyltransferase (EC 2.3.1.31);",1
+"SEED;Unclassified;PROSC YggS;Inorganic pyrophosphatase (EC 3.6.1.1);",1
+"SEED;Unclassified;PROSC YggS;Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18);",1
+"SEED;Unclassified;TN RidA: all subgroups, 981 genomes;Pyruvate dehydrogenase E1 component (EC 1.2.4.1);",1
+"SEED;Unclassified;YggSProC;Cell division protein FtsZ (EC 3.4.24.-);",1
+"SEED;Unclassified;YggSProC;Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.15);",1
+"SEED;Virulence, Disease and Defense;C jejuni colonization of chick caeca;Flagellar hook-associated protein FlgK;",1
+"SEED;Virulence, Disease and Defense;C jejuni colonization of chick caeca;RNA polymerase sigma-54 factor RpoN;",1
+"SEED;Virulence, Disease and Defense;Colicin V and Bacteriocin Production Cluster;Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2);",1
+"SEED;Virulence, Disease and Defense;Legionella pneumophila Virulome;Cell division protein FtsZ (EC 3.4.24.-);",1
+"SEED;Virulence, Disease and Defense;Legionella pneumophila Virulome;Flagellar hook-associated protein FlgK;",1
+"SEED;Virulence, Disease and Defense;Legionella pneumophila Virulome;Type I secretion outer membrane protein, TolC precursor;",1
+"SEED;Virulence, Disease and Defense;MLST;Acetyl-CoA acetyltransferase (EC 2.3.1.9);",2
+"SEED;Virulence, Disease and Defense;MLST;Triosephosphate isomerase (EC 5.3.1.1);",1
+"SEED;Virulence, Disease and Defense;MRSA analysis Oli;Heat shock protein 60 family chaperone GroEL;",1
+"SEED;Virulence, Disease and Defense;MRSA analysis Oli;Type I restriction-modification system, specificity subunit S (EC 3.1.21.3);",1
+"SEED;Virulence;Beta-lactamase;",1
+"SEED;Virulence;Beta-lactamase;Beta-lactamase;",1
+"SEED;Virulence;Cobalt-zinc-cadmium resistance;Cobalt-zinc-cadmium resistance protein CzcA;",1
+"SEED;Virulence;Cobalt-zinc-cadmium resistance;Heavy metal RND efflux outer membrane protein, CzcC family;",1
+"SEED;Virulence;Copper homeostasis;Multicopper oxidase;",1
+"SEED;Virulence;Legionella pneumophila Potential Resistome;DNA gyrase subunit A (EC 5.99.1.3);",1
+"SEED;Virulence;Legionella pneumophila Potential Resistome;DNA-directed RNA polymerase beta subunit (EC 2.7.7.6);",1
+"SEED;Virulence;Legionella pneumophila Potential Resistome;RND efflux system, inner membrane transporter CmeB;",1
+"SEED;Virulence;Mercuric reductase;PF00070 family, FAD-dependent NAD(P)-disulphide oxidoreductase;",1
+"SEED;Virulence;Multidrug efflux pump in Campylobacter jejuni (CmeABC operon);RND efflux system, inner membrane transporter CmeB;",1
+"SEED;Virulence;Multidrug Resistance Efflux Pumps;Acriflavin resistance protein;",2
+"SEED;Virulence;Multidrug Resistance Efflux Pumps;RND efflux system, inner membrane transporter CmeB;",1
+"SEED;Virulence;Multidrug Resistance Efflux Pumps;Type I secretion outer membrane protein, TolC precursor;",1
+"SEED;Virulence;Mycobacterial MmpL2 membrane protein cluster;Glutamyl-tRNA reductase (EC 1.2.1.70);",1
+"SEED;Virulence;Mycobacterial MmpL6 membrane protein cluster;Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1);",1
+"SEED;Virulence;Mycobacterium virulence operon involved in an unknown function with a Jag Protein and YidC and YidD;Inner membrane protein translocase component YidC, long form;",1
+"SEED;Virulence;Mycobacterium virulence operon involved in DNA transcription;DNA-directed RNA polymerase beta subunit (EC 2.7.7.6);",1
+"SEED;Virulence;Mycobacterium virulence operon involved in protein synthesis (SSU ribosomal proteins);SSU ribosomal protein S12p (S23e);",2
+"SEED;Virulence;Mycobacterium virulence operon involved in protein synthesis (SSU ribosomal proteins);Translation elongation factor G;",3
+"SEED;Virulence;Mycobacterium virulence operon involved with a mostly uncharacterized dormancy regulon;Trehalose-6-phosphate phosphatase (EC 3.1.3.12);",1
+"SEED;Virulence;Mycobacterium virulence operon possibly involved in quinolinate biosynthesis;L-aspartate oxidase (EC 1.4.3.16);",1
+"SEED;Virulence;Resistance to fluoroquinolones;DNA gyrase subunit A (EC 5.99.1.3);",1
+"SEED;Virulence;Streptococcus agalactiae virulome;N-acetylneuraminate synthase (EC 2.5.1.56);",1

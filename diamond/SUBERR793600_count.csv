@@ -1,0 +1,84 @@
+"ASV","SUBERR793600"
+"root;",81
+"root; cellular organisms;",1330
+"root; cellular organisms; Bacteria;",1416
+"root; cellular organisms; Bacteria; FCB group; Bacteroidetes/Chlorobi group;",3
+"root; cellular organisms; Bacteria; FCB group; Bacteroidetes/Chlorobi group; Bacteroidetes;",32
+"root; cellular organisms; Bacteria; FCB group; Bacteroidetes/Chlorobi group; Bacteroidetes; Chitinophagia; Chitinophagales; Chitinophagaceae;",3
+"root; cellular organisms; Bacteria; FCB group; Bacteroidetes/Chlorobi group; Bacteroidetes; Chitinophagia; Chitinophagales; Chitinophagaceae; Chitinophaga;",4
+"root; cellular organisms; Bacteria; FCB group; Bacteroidetes/Chlorobi group; Bacteroidetes; Cytophagia; Cytophagales;",1
+"root; cellular organisms; Bacteria; FCB group; Bacteroidetes/Chlorobi group; Bacteroidetes; Cytophagia; Cytophagales; Cytophagaceae;",6
+"root; cellular organisms; Bacteria; FCB group; Bacteroidetes/Chlorobi group; Bacteroidetes; Cytophagia; Cytophagales; Cytophagaceae; Ohtaekwangia; Ohtaekwangia koreensis;",5
+"root; cellular organisms; Bacteria; FCB group; Bacteroidetes/Chlorobi group; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae;",5
+"root; cellular organisms; Bacteria; FCB group; Bacteroidetes/Chlorobi group; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Chryseobacterium;",3
+"root; cellular organisms; Bacteria; FCB group; Bacteroidetes/Chlorobi group; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Flavobacterium;",5
+"root; cellular organisms; Bacteria; Proteobacteria;",64
+"root; cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria;",28
+"root; cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Caulobacterales;",1
+"root; cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Caulobacterales; Caulobacteraceae;",1
+"root; cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Caulobacterales; Caulobacteraceae; Caulobacter;",5
+"root; cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;",72
+"root; cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae;",1
+"root; cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group;",4
+"root; cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales;",20
+"root; cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae;",17
+"root; cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria;",7
+"root; cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;",15
+"root; cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae;",5
+"root; cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Achromobacter;",16
+"root; cellular organisms; Bacteria; Proteobacteria; delta/epsilon subdivisions;",5
+"root; cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria;",11
+"root; cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae;",1
+"root; cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas;",22
+"root; cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales;",3
+"root; cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae;",4
+"root; cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Stenotrophomonas;",3
+"root; cellular organisms; Bacteria; PVC group;",1
+"root; cellular organisms; Bacteria; PVC group; Planctomycetes;",4
+"root; cellular organisms; Bacteria; Terrabacteria group;",14
+"root; cellular organisms; Bacteria; Terrabacteria group; Actinobacteria <actinobacteria>;",3
+"root; cellular organisms; Bacteria; Terrabacteria group; Actinobacteria <actinobacteria>; Actinobacteria;",23
+"root; cellular organisms; Bacteria; Terrabacteria group; Actinobacteria <actinobacteria>; Actinobacteria; Micrococcales;",3
+"root; cellular organisms; Bacteria; Terrabacteria group; Actinobacteria <actinobacteria>; Actinobacteria; Micrococcales; Microbacteriaceae;",4
+"root; cellular organisms; Bacteria; Terrabacteria group; Actinobacteria <actinobacteria>; Actinobacteria; Micrococcales; Microbacteriaceae; Microbacterium;",6
+"root; cellular organisms; Bacteria; Terrabacteria group; Firmicutes;",176
+"root; cellular organisms; Bacteria; Terrabacteria group; Firmicutes; Bacilli;",1
+"root; cellular organisms; Bacteria; Terrabacteria group; Firmicutes; Bacilli; Bacillales;",10
+"root; cellular organisms; Bacteria; Terrabacteria group; Firmicutes; Bacilli; Bacillales; Bacillaceae;",1
+"root; cellular organisms; Bacteria; Terrabacteria group; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus;",8
+"root; cellular organisms; Bacteria; Terrabacteria group; Firmicutes; Bacilli; Bacillales; Paenibacillaceae;",3
+"root; cellular organisms; Bacteria; Terrabacteria group; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus; Lactobacillus rhamnosus;",21
+"root; cellular organisms; Bacteria; Terrabacteria group; Firmicutes; Clostridia; Clostridiales; Peptostreptococcaceae; Clostridioides; Clostridioides difficile;",20
+"root; cellular organisms; Eukaryota;",144
+"root; cellular organisms; Eukaryota; Opisthokonta;",2
+"root; cellular organisms; Eukaryota; Opisthokonta; Fungi;",2
+"root; cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya;",2
+"root; cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; saccharomyceta; Pezizomycotina;",4
+"root; cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; saccharomyceta; Pezizomycotina; leotiomyceta;",23
+"root; cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; saccharomyceta; Pezizomycotina; leotiomyceta; sordariomyceta;",17
+"root; cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; saccharomyceta; Pezizomycotina; leotiomyceta; sordariomyceta; Sordariomycetes;",14
+"root; cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; saccharomyceta; Pezizomycotina; leotiomyceta; sordariomyceta; Sordariomycetes; Hypocreomycetidae;",15
+"root; cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; saccharomyceta; Pezizomycotina; leotiomyceta; sordariomyceta; Sordariomycetes; Hypocreomycetidae; Hypocreales;",71
+"root; cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; saccharomyceta; Pezizomycotina; leotiomyceta; sordariomyceta; Sordariomycetes; Hypocreomycetidae; Hypocreales; Cordycipitaceae;",3
+"root; cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; saccharomyceta; Pezizomycotina; leotiomyceta; sordariomyceta; Sordariomycetes; Hypocreomycetidae; Hypocreales; Cordycipitaceae; Cordyceps;",4
+"root; cellular organisms; Eukaryota; Viridiplantae;",1
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta;",23
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta;",3
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta;",10
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida;",36
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida; Mesangiospermae;",522
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida; Mesangiospermae; eudicotyledons; Gunneridae; Pentapetalae;",846
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida; Mesangiospermae; eudicotyledons; Gunneridae; Pentapetalae; asterids;",6
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida; Mesangiospermae; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids;",5
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida; Mesangiospermae; eudicotyledons; Gunneridae; Pentapetalae; Caryophyllales;",10
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida; Mesangiospermae; eudicotyledons; Gunneridae; Pentapetalae; Caryophyllales; Chenopodiaceae;",835
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida; Mesangiospermae; eudicotyledons; Gunneridae; Pentapetalae; Caryophyllales; Chenopodiaceae; Betoideae; Beta <vulgaris>;",9
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida; Mesangiospermae; eudicotyledons; Gunneridae; Pentapetalae; Caryophyllales; Chenopodiaceae; Betoideae; Beta <vulgaris>; Beta vulgaris;",78
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida; Mesangiospermae; eudicotyledons; Gunneridae; Pentapetalae; Caryophyllales; Chenopodiaceae; Betoideae; Beta <vulgaris>; Beta vulgaris; Beta vulgaris subsp. vulgaris;",786
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida; Mesangiospermae; eudicotyledons; Gunneridae; Pentapetalae; Caryophyllales; Chenopodiaceae; Chenopodioideae;",10
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida; Mesangiospermae; eudicotyledons; Gunneridae; Pentapetalae; Caryophyllales; Chenopodiaceae; Chenopodioideae; Anserineae; Spinacia; Spinacia oleracea;",8
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida; Mesangiospermae; eudicotyledons; Gunneridae; Pentapetalae; Caryophyllales; Chenopodiaceae; Chenopodioideae; Atripliceae; Chenopodium; Chenopodium quinoa;",9
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida; Mesangiospermae; eudicotyledons; Gunneridae; Pentapetalae; rosids;",13
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida; Mesangiospermae; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids;",9
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida; Mesangiospermae; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Rosales; Rosaceae; Amygdaloideae; Amygdaleae; Prunus;",3
+"root; cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida; Mesangiospermae; eudicotyledons; Gunneridae; Pentapetalae; rosids; rosids incertae sedis; Vitales; Vitaceae; Viteae; Vitis; Vitis vinifera;",3

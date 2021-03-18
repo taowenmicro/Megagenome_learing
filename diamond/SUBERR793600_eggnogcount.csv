@@ -1,0 +1,503 @@
+"eggnog","SUBERR793600"
+"eggNOG;cellularProcessesAndSignaling;[D] Cell cycle control, cell division, chromosome partitioning;COG0424 Maf-like protein;",1
+"eggNOG;cellularProcessesAndSignaling;[D] Cell cycle control, cell division, chromosome partitioning;COG0772 Cell Division Protein;",2
+"eggNOG;cellularProcessesAndSignaling;[D] Cell cycle control, cell division, chromosome partitioning;COG0851 Prevents the cell division inhibition by proteins MinC and MinD at internal division sites while permitting inhibition at polar sites. This ensures cell division at the proper site by restricting the formation of a division septum at the midpoint of the long axis of the cell (By similarity);",1
+"eggNOG;cellularProcessesAndSignaling;[D] Cell cycle control, cell division, chromosome partitioning;COG1674 cell division protein FtsK;",2
+"eggNOG;cellularProcessesAndSignaling;[D] Cell cycle control, cell division, chromosome partitioning;COG5049 5'-3' exoribonuclease;",5
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG0451 Nad-dependent epimerase dehydratase;",3
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG0668 Mechanosensitive ion channel;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG0741 transglycosylase;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG0766 Cell wall formation. Adds enolpyruvyl to UDP-N- acetylglucosamine (By similarity);",2
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG0768 penicillin-binding protein;",2
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG0787 Catalyzes the interconversion of L-alanine and D- alanine. May also act on other amino acids (By similarity);",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG0794 Arabinose 5-phosphate isomerase;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG0810 TonB family;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG0836 mannose-1-phosphate guanylyltransferase activity;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG0860 n-acetylmuramoyl-l-alanine amidase;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG1044 Catalyzes the N-acylation of UDP-3-O-acylglucosamine using 3-hydroxyacyl-ACP as the acyl donor. Is involved in the biosynthesis of lipid A, a phosphorylated glycolipid that anchors the lipopolysaccharide to the outer membrane of the cell (By similarity);",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG1088 dTDP-glucose 4-6-dehydratase;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG1134 (ABC) transporter;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG1181 cell wall formation (By similarity);",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG1215 Glycosyl transferase, family 2;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG1368 Sulfatase;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG1519 3-Deoxy-D-manno-octulosonic-acid transferase;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG1538 Membrane;",3
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG1560 lipid a biosynthesis;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG1589 Essential cell division protein. May link together the upstream cell division proteins, which are predominantly cytoplasmic, with the downstream cell division proteins, which are predominantly periplasmic. May control correct divisome assembly (By similarity);",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG2089 synthase;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG2222 carbohydrate binding;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG2244 Polysaccharide biosynthesis protein;",2
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG2853 (LipO)protein;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG2891 Rod shape-determining protein MreD;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG2982 asmA family;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG3511 phospholipase C;",2
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG3637 Membrane;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG3765 lipopolysaccharide biosynthetic process;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG4948 mandelate racemase muconate lactonizing;",2
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG5039 Polysaccharide pyruvyl transferase;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;COG5434 Glycoside hydrolase family 28;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;ENOG410XSR4 Outer membrane porin;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;ENOG410ZU53 glycosyl transferase family;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;ENOG4111FMC N-acetylmuramoyl-L-alanine amidase;",1
+"eggNOG;cellularProcessesAndSignaling;[M] Cell wall/membrane/envelope biogenesis;ENOG4111KXJ Outer membrane efflux protein;",1
+"eggNOG;cellularProcessesAndSignaling;[N] Cell motility;COG0835 chew protein;",1
+"eggNOG;cellularProcessesAndSignaling;[N] Cell motility;COG1256 ciliary or bacterial-type flagellar motility;",1
+"eggNOG;cellularProcessesAndSignaling;[N] Cell motility;COG1298 Flagellar biosynthesis protein flha;",2
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG0071 response to heat;",4
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG0265 Serine protease;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG0443 Heat shock protein;",2
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG0459 Prevents misfolding and promotes the refolding and proper assembly of unfolded polypeptides generated under stress conditions (By similarity);",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG0464 Aaa atpase;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG0465 Acts as a processive, ATP-dependent zinc metallopeptidase for both cytoplasmic and membrane proteins. Plays a role in the quality control of integral membrane proteins (By similarity);",2
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG0466 ATP-dependent serine protease that mediates the selective degradation of mutant and abnormal proteins as well as certain short-lived regulatory proteins. Required for cellular homeostasis and for survival from DNA damage and developmental changes induced by stress. Degrades polypeptides processively to yield small peptide fragments that are 5 to 10 amino acids long. Binds to DNA in a double-stranded, site-specific manner (By similarity);",2
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG0484 ATP binding to DnaK triggers the release of the substrate protein, thus completing the reaction cycle. Several rounds of ATP-dependent interactions between DnaJ, DnaK and GrpE are required for fully efficient folding. Also involved, together with DnaK and GrpE, in the DNA replication of plasmids through activation of initiation proteins (By similarity);",4
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG0492 thioredoxin reductase;",2
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG0542 ATP-dependent CLP protease ATP-binding subunit;",2
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG0544 Involved in protein export. Acts as a chaperone by maintaining the newly synthesized protein in an open conformation;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG0612 peptidase';",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG0691 Binds specifically to the SsrA RNA (tmRNA) and is required for stable association of SsrA with ribosomes (By similarity);",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG0740 Cleaves peptides in various proteins in a process that requires ATP hydrolysis. Has a chymotrypsin-like activity. Plays a major role in the degradation of misfolded proteins (By similarity);",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG1138 cytochrome c-type biogenesis protein;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG1222 26S protease regulatory subunit;",2
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG1391 Adenylation and deadenylation of glutamate--ammonia ligase (By similarity);",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG1404 peptidase (S8 and S53, subtilisin, kexin, sedolisin;",2
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG1612 Catalyzes the oxidation of the C8 methyl side group on heme O porphyrin ring into a formyl group (By similarity);",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG1764 Organic hydroperoxide resistance protein;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG2214 DNAj domain protein;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG2518 Catalyzes the methyl esterification of L-isoaspartyl residues in peptides and proteins that result from spontaneous decomposition of normal L-aspartyl and L-asparaginyl residues. It plays a role in the repair and or degradation of damaged proteins (By similarity);",2
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG3555 beta-hydroxylase;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG3634 alkyl hydroperoxide reductase activity;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG5021 ubiquitin protein ligase;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG5078 ubiquitin-conjugating enzyme;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG5140 Ubiquitin fusion degradation protein;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG5206 phosphatidylinositol glycan anchor biosynthesis, class K;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG5272 ubiquitin;",2
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG5560 ubiquitin carboxyl-terminal hydrolase;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;COG5597 Glycosyl Transferase;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;ENOG410XNTU protein ubiquitination;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;ENOG410XQ5K Ubox domain-containing protein;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;ENOG410XQ6Q peroxisomal biogenesis factor;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;ENOG410XRI2 DnaJ (Hsp40) homolog, subfamily C, member 13;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;ENOG410XRKY COP9 (constitutive photomorphogenic) homolog, subunit 3 (Arabidopsis;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;ENOG410XRR7 Calreticulin;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;ENOG410XUDQ Required for respiratory activity and maintenance and expression of the mitochondrial genome (By similarity);",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;ENOG410YDJ9 Subtilase family;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;ENOG410YPVA RCE1 homolog, prenyl protein protease (S. cerevisiae);",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;ENOG4111K44 Rho GDP dissociation inhibitor (GDI);",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;ENOG4111NFC Glutaredoxin;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;ENOG4111RE0 peptidase, M48;",1
+"eggNOG;cellularProcessesAndSignaling;[O] Posttranslational modification, protein turnover, chaperones;ENOG41121N2 zinc ion binding;",2
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;COG0317 In eubacteria ppGpp (guanosine 3'-diphosphate 5-' diphosphate) is a mediator of the stringent response that coordinates a variety of cellular activities in response to changes in nutritional abundance (By similarity);",2
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;COG0515 Serine Threonine protein kinase;",9
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;COG0589 Universal stress protein;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;COG0631 Phosphatase;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;COG0642 Histidine kinase;",2
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;COG0745 regulatoR;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;COG0835 chew protein;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;COG1217 gtp-binding protein typa;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;COG1391 Adenylation and deadenylation of glutamate--ammonia ligase (By similarity);",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;COG2201 protein-glutamate methylesterase activity;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;COG2204 two component, sigma54 specific, transcriptional regulator, Fis family;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;COG2815 Serine Threonine protein kinase;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;COG3275 Histidine kinase;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;COG3712 Anti-feci sigma factor, fecr;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;COG4191 Histidine kinase;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;COG4251 red, far-red light phototransduction;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;COG4725 MT-A70 family;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;COG5329 Phosphatase;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;ENOG410XNMH Histidine kinase;",4
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;ENOG410XNY0 Mitogen-activated protein kinase;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;ENOG410XQI5 response regulator;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;ENOG410XQJW Protein phosphatase 2, regulatory subunit B;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;ENOG410XRM1 Protein phosphatase 6, regulatory subunit;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;ENOG410XRQU regulator;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;ENOG410Y3C2 response regulator (Receiver;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;ENOG410Y515 associated kinase;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;ENOG410YBN4 G-type lectin S-receptor-like serine threonine-protein kinase;",1
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;ENOG410Z1TX response regulator (Receiver;",2
+"eggNOG;cellularProcessesAndSignaling;[T] Signal transduction mechanisms;ENOG4111S3R Response Regulator;",1
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;COG0681 Signal peptidase i;",1
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;COG0706 Required for the insertion and or proper folding and or complex formation of integral membrane proteins into the membrane. Involved in integration of membrane proteins that insert both dependently and independently of the Sec translocase complex, as well as at least some lipoproteins;",1
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;COG1459 Type ii secretion system;",1
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;COG2095 multiple antibiotic resistance (MarC)-related protein;",2
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;COG3451 type IV secretion system protein;",1
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;COG5130 Prenylated RAB acceptor;",1
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;COG5196 Required for the retention of luminal endoplasmic reticulum proteins. Determines the specificity of the luminal ER protein retention system. Also required for normal vesicular traffic through the Golgi (By similarity);",1
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;ENOG410XNME Type I secretion membrane fusion protein (HlyD;",1
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;ENOG410XPHD solute carrier family 4;",1
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;ENOG410XPSE Potassium voltage-gated channel, subfamily H (Eag-related), member;",1
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;ENOG410XPYK Phospholipid-transporting atpase;",1
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;ENOG410XR4Q DUF907 domain protein;",1
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;ENOG410XR54 Niemann-Pick disease type C1;",1
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;ENOG410XRPR ran binding protein;",1
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;ENOG410XSI1 Vacuolar Protein;",2
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;ENOG410XSJN secretory carrier membrane protein;",1
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;ENOG410ZD2D This protein is a component of the reaction center of photosystem II (By similarity);",1
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;ENOG410ZMY0 cytoplasmic linker associated protein;",1
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;ENOG4111H3M Vps20-associated 1 homolog (S. cerevisiae);",1
+"eggNOG;cellularProcessesAndSignaling;[U] Intracellular trafficking, secretion, and vesicular transport;ENOG4111X41 trafficking protein particle complex;",1
+"eggNOG;cellularProcessesAndSignaling;[V] Defense mechanisms;COG0732 Restriction modification system DNA (Specificity;",1
+"eggNOG;cellularProcessesAndSignaling;[V] Defense mechanisms;COG1002 Type II restriction enzyme, methylase;",1
+"eggNOG;cellularProcessesAndSignaling;[V] Defense mechanisms;COG1132 (ABC) transporter;",5
+"eggNOG;cellularProcessesAndSignaling;[V] Defense mechanisms;COG1136 (ABC) transporter;",2
+"eggNOG;cellularProcessesAndSignaling;[V] Defense mechanisms;COG1680 Beta-lactamase;",2
+"eggNOG;cellularProcessesAndSignaling;[V] Defense mechanisms;COG2274 (ABC) transporter;",1
+"eggNOG;cellularProcessesAndSignaling;[V] Defense mechanisms;COG4618 ABC transporter;",1
+"eggNOG;cellularProcessesAndSignaling;[V] Defense mechanisms;ENOG410XNVN Efflux transporter rnd family, mfp subunit;",1
+"eggNOG;cellularProcessesAndSignaling;[Z] Cytoskeleton;COG5023 protein polymerization;",1
+"eggNOG;cellularProcessesAndSignaling;[Z] Cytoskeleton;COG5059 Kinesin family member;",3
+"eggNOG;cellularProcessesAndSignaling;[Z] Cytoskeleton;COG5277 Actin-related protein;",1
+"eggNOG;cellularProcessesAndSignaling;[Z] Cytoskeleton;ENOG410XPVJ GTPase activity;",1
+"eggNOG;informationStorageAndProcessing;[A] RNA processing and modification;COG5049 5'-3' exoribonuclease;",5
+"eggNOG;informationStorageAndProcessing;[B] Chromatin structure and dynamics;ENOG410XPH4 chromatin silencing at telomere;",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0048 Interacts with and stabilizes bases of the 16S rRNA that are involved in tRNA selection in the A site and with the mRNA backbone. Located at the interface of the 30S and 50S subunits, it traverses the body of the 30S subunit contacting proteins on the other side and probably holding the rRNA structure together. The combined cluster of proteins S8, S12 and S17 appears to hold together the shoulder and platform of the 30S subunit (By similarity);",2
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0052 30S ribosomal protein S2;",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0072 phenylalanyl-tRNA synthetase (beta subunit);",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0073 Is required not only for elongation of protein synthesis but also for the initiation of all mRNA translation through initiator tRNA(fMet) aminoacylation (By similarity);",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0080 This protein binds directly to 23S ribosomal RNA (By similarity);",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0087 One of the primary rRNA binding proteins, it binds directly near the 3'-end of the 23S rRNA, where it nucleates assembly of the 50S subunit (By similarity);",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0088 One of the primary rRNA binding proteins, this protein initially binds near the 5'-end of the 23S rRNA. It is important during the early stages of 50S assembly. It makes multiple contacts with different domains of the 23S rRNA in the assembled 50S subunit and ribosome (By similarity);",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0090 One of the primary rRNA binding proteins. Required for association of the 30S and 50S subunits to form the 70S ribosome, for tRNA binding and peptide bond formation. It has been suggested to have peptidyltransferase activity;",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0094 This is 1 of the proteins that binds and probably mediates the attachment of the 5S RNA into the large ribosomal subunit, where it forms part of the central protuberance. In the 70S ribosome it contacts protein S13 of the 30S subunit (bridge B1b), connecting the 2 subunits;",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0096 One of the primary rRNA binding proteins, it binds directly to 16S rRNA central domain where it helps coordinate assembly of the platform of the 30S subunit (By similarity);",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0097 This protein binds to the 23S rRNA, and is important in its secondary structure. It is located near the subunit interface in the base of the L7 L12 stalk, and near the tRNA binding site of the peptidyltransferase center (By similarity);",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0124 Histidyl-trna synthetase;",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0144 nOP2 Sun;",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0230 50s ribosomal protein l34;",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0233 Responsible for the release of ribosomes from messenger RNA at the termination of protein biosynthesis. May increase the efficiency of translation by recycling ribosomes from one round of translation to another (By similarity);",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0268 Binds directly to 16S ribosomal RNA (By similarity);",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0335 This protein is located at the 30S-50S ribosomal subunit interface and may play a role in the structure and function of the aminoacyl-tRNA binding site (By similarity);",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0442 Catalyzes the attachment of proline to tRNA(Pro) in a two-step reaction proline is first activated by ATP to form Pro- AMP and then transferred to the acceptor end of tRNA(Pro). As ProRS can inadvertently accommodate and process non-cognate amino acids such as alanine and cysteine, to avoid such errors it has two additional distinct editing activities against alanine. One activity is designated as 'pretransfer' editing and involves the tRNA(Pro)-independent hydrolysis of activated Ala-AMP. The other activity is designated 'posttransfer' editing and involves deacylation of mischarged Ala-tRNA(Pro). The misacylated Cys- tRNA(Pro) is not edited by ProRS (By similarity);",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0480 Catalyzes the GTP-dependent ribosomal translocation step during translation elongation. During this step, the ribosome changes from the pre-translocational (PRE) to the post- translocational (POST) state as the newly formed A-site-bound peptidyl-tRNA and P-site-bound deacylated tRNA move to the P and E sites, respectively. Catalyzes the coordinated movement of the two tRNA molecules, the mRNA and conformational changes in the ribosome (By similarity);",3
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0495 Leucyl-trna synthetase;",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0522 One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the body of the 30S subunit (By similarity);",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0539 thus facilitating recognition of the initiation point. It is needed to translate mRNA with a short Shine-Dalgarno (SD) purine-rich sequence (By similarity);",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0565 RNA methyltransferase TrmH family, group 1;",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0617 Catalyzes the addition and repair of the essential 3'- terminal CCA sequence in tRNAs without using a nucleic acid template. Adds these three nucleotides in the order of C, C, and A to the tRNA nucleotide-73, using CTP and ATP as substrates and producing inorganic pyrophosphate;",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG0820 rRNA (adenine-C2-)-methyltransferase activity;",2
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG1236 cleavage and polyadenylation;",2
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG1544 sigma 54 modulation protein ribosomal protein S30ea;",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG2051 40s ribosomal protein S27;",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;COG2238 Ribosomal protein;",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;ENOG410XSAV translation Initiation Factor;",1
+"eggNOG;informationStorageAndProcessing;[J] Translation, ribosomal structure and biogenesis;ENOG411220Z Binds directly to 16S ribosomal RNA (By similarity);",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG0195 Transcription elongation factor NusA;",2
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG0202 DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity);",2
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG0250 Participates in transcription elongation, termination and antitermination (By similarity);",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG0317 In eubacteria ppGpp (guanosine 3'-diphosphate 5-' diphosphate) is a mediator of the stringent response that coordinates a variety of cellular activities in response to changes in nutritional abundance (By similarity);",2
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG0454 acetyltransferase;",2
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG0568 Sigma factors are initiation factors that promote the attachment of RNA polymerase to specific initiation sites and are then released (By similarity);",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG0583 Transcriptional regulator;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG0782 Necessary for efficient RNA polymerase transcription elongation past template-encoded arresting sites. The arresting sites in DNA have the property of trapping a certain fraction of elongating RNA polymerases that pass through, resulting in locked ternary complexes. Cleavage of the nascent transcript by cleavage factors such as GreA or GreB allows the resumption of elongation from the new 3'terminus. GreA releases sequences of 2 to 3 nucleotides (By similarity);",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG1522 transcriptional regulator AsnC family;",2
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG1595 RNA Polymerase;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG1609 Transcriptional regulator;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG1695 Transcriptional regulator;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG1737 Transcriptional regulator;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG1802 GntR Family Transcriptional Regulator;",2
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG1846 Transcriptional regulator;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG1974 Represses a number of genes involved in the response to DNA damage (SOS response), including recA and lexA. In the presence of single-stranded DNA, RecA interacts with LexA causing an autocatalytic cleavage which disrupts the DNA-binding part of LexA, leading to derepression of the SOS regulon and eventually DNA repair (By similarity);",2
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG2207 Transcriptional Regulator AraC Family;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG2508 Transcriptional regulator;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG4725 MT-A70 family;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG4941 rna polymerase;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG5088 Component of the Mediator complex, a coactivator involved in the regulated transcription of nearly all RNA polymerase II-dependent genes. Mediator functions as a bridge to convey information from gene-specific regulatory proteins to the basal RNA polymerase II transcription machinery. Mediator is recruited to promoters by direct interactions with regulatory proteins and serves as a scaffold for the assembly of a functional preinitiation complex with RNA polymerase II and the general transcription factors;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG5147 Myblike DNAbinding domain containing protein;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;COG5190 CTD (Carboxy-terminal domain, RNA polymerase II, polypeptide A);",2
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG410XNVB LysR family (Transcriptional regulator;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG410XNYY LysR family Transcriptional regulator;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG410XP1H HIR histone cell cycle regulation defective homolog A (S. cerevisiae);",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG410XP86 LysR family Transcriptional regulator;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG410XPGX AraC family transcriptional regulator;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG410XQ3R homeobox-leucine zipper protein;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG410XQGJ LysR family (Transcriptional regulator;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG410XQRW AraC Family Transcriptional Regulator;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG410XR3F Transcriptional regulator;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG410XR85 LysR family (Transcriptional regulator;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG410XS53 LysR family (Transcriptional regulator;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG410YCQU Homeobox-leucine zipper protein;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG410YMPH transcription, DNA-dependent;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG410YP2C Ocs element-binding factor;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG410YS5T Transcription factor;",2
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG410YZXE paf1, RNA polymerase II associated factor, homolog (S. cerevisiae);",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG410ZN9J;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG4111AZ4 Transcriptional regulator, ARAC family;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG4111I90 GntR Family Transcriptional Regulator;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG4111IMA Transcription factor;",2
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG4111JBG Component of the nascent polypeptide-associated complex (NAC), a dynamic component of the ribosomal exit tunnel, protecting the emerging polypeptides from interaction with other cytoplasmic proteins to ensure appropriate nascent protein targeting (By similarity). The NAC complex also promotes mitochondrial protein import by enhancing productive ribosome interactions with the outer mitochondrial membrane and blocks the inappropriate interaction of ribosomes translating non-secretory nascent polypeptides with translocation sites in the membrane of the endoplasmic reticulum (By similarity). EGD1 may act as a transcription factor that exert a negative effect on the expression of several genes that are transcribed by RNA polymerase II (By similarity);",7
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG4111QJC rna polymerase;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG4111SE2 LysR family (Transcriptional regulator;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG4111UA6 TetR family transcriptional Regulator;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG4111X77 Myb transcription factor;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG41123XR Transcriptional regulator;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG41124SV Phage transcriptional regulator AlpA;",1
+"eggNOG;informationStorageAndProcessing;[K] Transcription;ENOG4112DFI XRE family Transcriptional regulator;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG0178 The UvrABC repair system catalyzes the recognition and processing of DNA lesions. UvrA is an ATPase and a DNA-binding protein. A damage recognition complex composed of 2 UvrA and 2 UvrB subunits scans DNA for abnormalities. When the presence of a lesion has been verified by UvrB, the UvrA molecules dissociate (By similarity);",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG0188 DNA gyrase negatively supercoils closed circular double- stranded DNA in an ATP-dependent manner and also catalyzes the interconversion of other topological isomers of double-stranded DNA rings, including catenanes and knotted rings (By similarity);",2
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG0210 helicase;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG0270 Cytosine-specific methyltransferase;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG0272 DNA ligase (NAD+) activity;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG0305 Replicative dna helicase;",2
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG0417 DNA polymerase;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG0468 Can catalyze the hydrolysis of ATP in the presence of single-stranded DNA, the ATP-dependent uptake of single-stranded DNA by duplex DNA, and the ATP-dependent hybridization of homologous single-stranded DNAs. It interacts with LexA causing its activation and leading to its autocatalytic cleavage (By similarity);",2
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG0507 exodeoxyribonuclease v alpha;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG0582 Integrase;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG0629 single-stranded DNA-binding protein;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG0692 Excises uracil residues from the DNA which can arise as a result of misincorporation of dUMP residues by DNA polymerase or due to deamination of cytosine (By similarity);",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG0749 DNA polymerase;",2
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG1198 Primosomal protein n';",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG1199 helicase;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG1201 purine NTP-dependent helicase activity;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG1204 helicase;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG1241 dna replication licensing factor;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG1555 Competence protein;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG1599 DNA replication;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG1643 helicase;",5
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG2801 Retrotransposon protein;",128
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG2827 Excinuclease abc c subunit domain protein;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG3293 transposase;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG3593 ATP-dependent endonuclease of the OLD;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG4644 Transposase;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG5049 5'-3' exoribonuclease;",5
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;COG5235 Replication Protein;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;ENOG410XP0A chromatin modification;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;ENOG410XP5C Transposase;",20
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;ENOG410XPF6 DNA- binding protein;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;ENOG410XQ4Y DNA (cytosine-5-)-methyltransferase;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;ENOG410XR7P Involved in DNA repair and RecF pathway recombination (By similarity);",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;ENOG410Y31Q helicase;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;ENOG410ZIID DNA polymerase type B, organellar and viral;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;ENOG4111IU1 Transposase;",1
+"eggNOG;informationStorageAndProcessing;[L] Replication, recombination and repair;ENOG4111UTW transposase;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG0045 Succinyl-CoA synthetase subunit beta;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG0277 FAD linked oxidase domain protein;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG0281 malic enzyme;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG0372 citrate synthase;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG0508 Dehydrogenase;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG0649 NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient (By similarity);",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG0654 oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG0667 Aldo keto reductase;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG0712 F(1)F(0) ATP synthase produces ATP from ADP in the presence of a proton or sodium gradient. F-type ATPases consist of two structural domains, F(1) containing the extramembraneous catalytic core and F(0) containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is coupled via a rotary mechanism of the central stalk subunits to proton translocation (By similarity);",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG1007 NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient (By similarity);",3
+"eggNOG;metabolism;[C] Energy production and conversion;COG1008 subunit m;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG1009 subunit l;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG1012 Dehydrogenase;",4
+"eggNOG;metabolism;[C] Energy production and conversion;COG1053 Succinate DeHydrogenase;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG1071 Dehydrogenase;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG1140 nitrate reductase beta subunit;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG1145 4Fe-4S ferredoxin, iron-sulfur binding;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG1227 Manganese-dependent inorganic pyrophosphatase;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG1249 dihydrolipoyl dehydrogenase;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG1251 nitrite reductase;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG1252 Nadh dehydrogenase;",3
+"eggNOG;metabolism;[C] Energy production and conversion;COG1290 Component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex), which is a respiratory chain that generates an electrochemical potential coupled to ATP synthesis (By similarity);",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG1294 oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG1304 Catalyzes the 1,3-allylic rearrangement of the homoallylic substrate isopentenyl (IPP) to its allylic isomer, dimethylallyl diphosphate (DMAPP) (By similarity);",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG1527 ATP synthase, subunit;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG1529 Aldehyde oxidase and xanthine dehydrogenase, molybdopterin binding;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG1804 l-carnitine dehydratase bile acid-inducible protein F;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG1902 NADH flavin oxidoreductase, NADH oxidase;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG2080 (2Fe-2S)-binding domain protein;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG3202 carrier protein;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG3808 pump that utilizes the energy of pyrophosphate hydrolysis as the driving force for;",1
+"eggNOG;metabolism;[C] Energy production and conversion;COG5274 cytochrome b5;",1
+"eggNOG;metabolism;[C] Energy production and conversion;ENOG410XRV3 Aldo keto reductase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0006 peptidase M24;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0028 acetolactate synthase;",3
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0065 Catalyzes the isomerization between 2-isopropylmalate and 3-isopropylmalate, via the formation of 2-isopropylmaleate (By similarity);",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0066 Catalyzes the isomerization between 2-isopropylmalate and 3-isopropylmalate, via the formation of 2-isopropylmaleate (By similarity);",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0076 decarboxylase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0115 brancheD-chain amino acid aminotransferase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0119 Catalyzes the condensation of the acetyl group of acetyl-CoA with 3-methyl-2-oxobutanoate (2-oxoisovalerate) to form 3-carboxy-3-hydroxy-4-methylpentanoate (2-isopropylmalate) (By similarity);",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0134 indole-3-glycerol phosphate synthase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0160 transaminase activity;",2
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0165 argininosuccinate lyase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0174 glutamine synthetase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0260 Presumably involved in the processing and regular turnover of intracellular proteins. Catalyzes the removal of unsubstituted N-terminal amino acids from various peptides (By similarity);",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0346 glyoxalase bleomycin resistance protein dioxygenase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0347 Nitrogen regulatory protein pii;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0410 amino acid transport;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0444 (ABC) transporter;",2
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0512 anthranilate synthase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0520 cysteine desulfurase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0531 amino acid;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0559 (ABC) transporter;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0620 Catalyzes the transfer of a methyl group from 5- methyltetrahydrofolate to homocysteine resulting in methionine formation (By similarity);",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0624 succinyl-diaminopimelate desuccinylase activity;",2
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0665 Catalyzes the last two steps in the biosynthesis of 5- methylaminomethyl-2-thiouridine (mnm(5)s(2)U) at the wobble position (U34) in tRNA. Catalyzes the FAD-dependent demodification of cmnm(5)s(2)U34 to nm(5)s(2)U34, followed by the transfer of a methyl group from S-adenosyl-L-methionine to nm(5)s(2)U34, to form mnm(5)s(2)U34 (By similarity);",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0683 (ABC) transporter;",3
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0685 Methylenetetrahydrofolate reductase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0697 membrane;",2
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG0722 Stereospecific condensation of phosphoenolpyruvate (PEP) and D-erythrose-4-phosphate (E4P) giving rise to 3-deoxy-D- arabino-heptulosonate-7-phosphate (DAHP) (By similarity);",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG1045 serine acetyltransferase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG1063 Dehydrogenase;",2
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG1126 ABC transporter, (ATP-binding protein);",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG1231 L-amino-acid oxidase activity;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG1505 prolyl oligopeptidase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG1506 peptidase s9 prolyl oligopeptidase active site domain protein;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG1605 Chorismate mutase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG1748 saccharopine dehydrogenase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG1770 Oligopeptidase b;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG1982 decarboxylase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG2021 homoserine O-acetyltransferase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG2303 oxidoreductase;",2
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG2610 Gluconate;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG2866 metallocarboxypeptidase activity;",3
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG2873 o-acetylhomoserine;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG2939 carboxy-peptidase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG2957 Agmatine deiminase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG3104 transporter;",3
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG4126 Hydantoin racemase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG4177 (ABC) transporter;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG4230 proline dehydrogenase, pyrroline-5-carboxylate dehydrogenase;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;COG4597 amino acid ABC transporter;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;ENOG410XSV7 Extracellular solute-binding protein family 3;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;ENOG410Y38I amino acid AbC transporter;",1
+"eggNOG;metabolism;[E] Amino acid transport and metabolism;ENOG410Y45M glycine amidinotransferase activity;",1
+"eggNOG;metabolism;[F] Nucleotide transport and metabolism;COG0127 Pyrophosphatase that hydrolyzes non-canonical purine nucleotides such as XTP and ITP dITP to their respective monophosphate derivatives. Might exclude non-canonical purines from DNA precursor pool, thus preventing their incorporation into DNA and avoiding chromosomal lesions (By similarity);",1
+"eggNOG;metabolism;[F] Nucleotide transport and metabolism;COG0167 Catalyzes the conversion of dihydroorotate to orotate;",1
+"eggNOG;metabolism;[F] Nucleotide transport and metabolism;COG0504 Catalyzes the ATP-dependent amination of UTP to CTP with either L-glutamine or ammonia as the source of nitrogen (By similarity);",1
+"eggNOG;metabolism;[F] Nucleotide transport and metabolism;COG0563 Catalyzes the reversible transfer of the terminal phosphate group between ATP and AMP. Plays an important role in cellular energy homeostasis and in adenine nucleotide metabolism (By similarity);",1
+"eggNOG;metabolism;[F] Nucleotide transport and metabolism;COG1051 NUDiX hydrolase;",1
+"eggNOG;metabolism;[F] Nucleotide transport and metabolism;COG1816 adenosine deaminase;",1
+"eggNOG;metabolism;[F] Nucleotide transport and metabolism;COG1864 DNA RNA NON-specific endonuclease;",2
+"eggNOG;metabolism;[F] Nucleotide transport and metabolism;COG2233 permease;",1
+"eggNOG;metabolism;[F] Nucleotide transport and metabolism;COG4630 xanthine dehydrogenase;",1
+"eggNOG;metabolism;[F] Nucleotide transport and metabolism;ENOG410XPRD 5-Nucleotidase;",2
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG0061 Catalyzes the phosphorylation of NAD to NADP. Utilizes ATP and other nucleoside triphosphates as well as inorganic polyphosphate as a source of phosphorus (By similarity);",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG0149 triosephosphate isomerase;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG0176 Transaldolase is important for the balance of metabolites in the pentose-phosphate pathway (By similarity);",2
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG0235 Class II aldolase adducin;",2
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG0364 Glucose-6-phosphate 1-dehydrogenase;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG0395 Binding-protein-dependent transport systems inner membrane component;",2
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG0406 Phosphoglycerate mutase;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG0477 major facilitator Superfamily;",3
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG0483 inositol monophosphatase;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG0696 Catalyzes the interconversion of 2-phosphoglycerate and 3-phosphoglycerate (By similarity);",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG0697 membrane;",2
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG0738 Transporter;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG1082 Xylose isomerase domain protein TIM barrel;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG1134 (ABC) transporter;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG1172 (ABC) transporter;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG1264 pts system;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG1640 4-alpha-glucanotransferase;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG1653 transporter activity;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG1877 trehalose biosynthetic process;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG1940 ROK family;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG2610 Gluconate;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG2893 pts system;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG3090 Tripartite ATP-independent periplasmic transporter dctq component;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG3250 hydrolase family 2;",2
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG3622 Catalyzes the reversible isomerization between hydroxypyruvate and 2-hydroxy-3-oxopropanoate (also termed tartronate semialdehyde) (By similarity);",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG3635 Catalyzes the interconversion of 2-phosphoglycerate and 3-phosphoglycerate (By similarity);",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG3730 Pts system, glucitol sorbitol-specific;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG3866 pectate lyase activity;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG3892 Domain-Containing protein;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG4677 pectinesterase;",2
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG4993 Dehydrogenase;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;COG5309 cell wall;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;ENOG410XNXS beta-amylase;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;ENOG410XNZD alphaglucosidase;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;ENOG410XNZG major facilitator superfamily;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;ENOG410XPU2 extracellular solute-binding protein;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;ENOG410XPWC solute carrier family 17;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;ENOG410XSRI solute carrier family 22;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;ENOG410XSSD Transporter;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;ENOG410Y0GE Major Facilitator;",2
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;ENOG410ZVGS Major Facilitator Superfamily;",1
+"eggNOG;metabolism;[G] Carbohydrate transport and metabolism;ENOG4111FKS extracellular solute-binding protein;",1
+"eggNOG;metabolism;[H] Coenzyme transport and metabolism;COG0029 L-aspartate oxidase;",1
+"eggNOG;metabolism;[H] Coenzyme transport and metabolism;COG0142 synthase;",1
+"eggNOG;metabolism;[H] Coenzyme transport and metabolism;COG0307 riboflavin synthase, subunit alpha;",1
+"eggNOG;metabolism;[H] Coenzyme transport and metabolism;COG0373 Catalyzes the NADPH-dependent reduction of glutamyl- tRNA(Glu) to glutamate 1-semialdehyde (GSA) (By similarity);",1
+"eggNOG;metabolism;[H] Coenzyme transport and metabolism;COG0382 Synthesis of 3-octaprenyl-4-hydroxybenzoate (By similarity);",1
+"eggNOG;metabolism;[H] Coenzyme transport and metabolism;COG0407 Catalyzes the decarboxylation of four acetate groups of uroporphyrinogen-III to yield coproporphyrinogen-III (By similarity);",2
+"eggNOG;metabolism;[H] Coenzyme transport and metabolism;COG0654 oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen;",1
+"eggNOG;metabolism;[H] Coenzyme transport and metabolism;COG1057 Catalyzes the reversible adenylation of nicotinate mononucleotide (NaMN) to nicotinic acid adenine dinucleotide (NaAD) (By similarity);",1
+"eggNOG;metabolism;[H] Coenzyme transport and metabolism;COG1154 Catalyzes the acyloin condensation reaction between C atoms 2 and 3 of pyruvate and glyceraldehyde 3-phosphate to yield 1-deoxy-D-xylulose-5-phosphate (DXP) (By similarity);",1
+"eggNOG;metabolism;[H] Coenzyme transport and metabolism;COG1232 protoporphyrinogen oxidase;",1
+"eggNOG;metabolism;[H] Coenzyme transport and metabolism;COG1270 Converts cobyric acid to cobinamide by the addition of aminopropanol on the F carboxylic group (By similarity);",1
+"eggNOG;metabolism;[H] Coenzyme transport and metabolism;COG1429 cobaltochelatase, cobn subunit;",1
+"eggNOG;metabolism;[H] Coenzyme transport and metabolism;COG2226 Methyltransferase required for the conversion of demethylmenaquinone (DMKH2) to menaquinone (MKH2);",1
+"eggNOG;metabolism;[H] Coenzyme transport and metabolism;COG2896 Catalyzes, together with MoaC, the conversion of 5'-GTP to cyclic pyranopterin monophosphate (cPMP or molybdopterin precursor Z) (By similarity);",1
+"eggNOG;metabolism;[H] Coenzyme transport and metabolism;ENOG4111NEJ Catalyzes the circularization of gamma-N-acetyl- alpha,gamma-diaminobutyric acid (ADABA) to ectoine (1,4,5,6- tetrahydro-2-methyl-4-pyrimidine carboxylic acid), which is an excellent osmoprotectant (By similarity);",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG0183 acetyl-coa acetyltransferase;",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG0204 Acyltransferase;",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG0236 Carrier of the growing fatty acid chain in fatty acid biosynthesis (By similarity);",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG0304 Catalyzes the condensation reaction of fatty acid synthesis by the addition to an acyl acceptor of two carbons from malonyl-ACP (By similarity);",2
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG0318 Amp-dependent synthetase and ligase;",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG0331 Malonyl coA-acyl carrier protein transacylase;",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG0365 Catalyzes the conversion of acetate into acetyl-CoA (AcCoA), an essential intermediate at the junction of anabolic and catabolic pathways. AcsA undergoes a two-step reaction. In the first half reaction, AcsA combines acetate with ATP to form acetyl-adenylate (AcAMP) intermediate. In the second half reaction, it can then transfer the acetyl group from AcAMP to the sulfhydryl group of CoA, forming the product AcCoA (By similarity);",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG0761 Converts 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate into isopentenyl diphosphate (IPP) and dimethylallyl diphosphate (DMAPP) (By similarity);",2
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG0777 Component of the acetyl coenzyme A carboxylase (ACC) complex. Biotin carboxylase (BC) catalyzes the carboxylation of biotin on its carrier protein (BCCP) and then the CO(2) group is transferred by the transcarboxylase to acetyl-CoA to form malonyl- CoA (By similarity);",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG1022 Amp-dependent synthetase and ligase;",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG1133 transport protein;",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG1250 Dehydrogenase;",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG1443 Catalyzes the 1,3-allylic rearrangement of the homoallylic substrate isopentenyl (IPP) to its highly electrophilic allylic isomer, dimethylallyl diphosphate (DMAPP) (By similarity);",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG1502 Catalyzes the reversible phosphatidyl group transfer from one phosphatidylglycerol molecule to another to form cardiolipin (CL) (diphosphatidylglycerol) and glycerol (By similarity);",2
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG1562 phytoene synthase;",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG1788 Key enzyme for ketone body catabolism. Transfers the CoA moiety from succinate to acetoacetate. Formation of the enzyme-CoA intermediate proceeds via an unstable anhydride species formed between the carboxylate groups of the enzyme and substrate (By similarity);",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG1946 acyl-CoA thioesterase;",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG1960 acyl-CoA dehydrogenase;",5
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG2185 Methylmalonyl-coA mutase;",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG3243 poly(r)-hydroxyalkanoic acid synthase, class;",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG4799 carboxylase;",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;COG5274 cytochrome b5;",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;ENOG410XQ4C acyl-Coa dehydrogenase;",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;ENOG410XQF4 Alkane 1-monooxygenase;",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;ENOG410XQHE indoleamine 2,3-dioxygenase;",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;ENOG410XS4Q Short-chain dehydrogenase reductase Sdr;",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;ENOG410XTHX Enoyl-CoA hydratase;",1
+"eggNOG;metabolism;[I] Lipid transport and metabolism;ENOG410Y9SB synthase;",2
+"eggNOG;metabolism;[I] Lipid transport and metabolism;ENOG410ZQ7D fatty acid oxygenase;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG0038 chloride channel;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG0306 inorganic phosphate transmembrane transporter activity;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG0376 Bifunctional enzyme with both catalase and broad- spectrum peroxidase activity (By similarity);",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG0444 (ABC) transporter;",2
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG0471 Transporter;",3
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG0474 P-type atpase;",3
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG0600 Binding-protein-dependent transport systems inner membrane component;",2
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG0601 Binding-protein-dependent transport systems inner membrane component;",4
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG0609 permease protein;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG0659 sulfate transporter;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG0715 (ABC) transporter;",2
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG0841 acriflavin resistance protein;",2
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG1116 (ABC) transporter;",2
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG1121 (ABC) transporter;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG1175 binding-protein-dependent transport systems inner membrane Component;",3
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG1226 PotAssium voltage-gated channel;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG1629 receptor;",5
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG1858 cytochrome C peroxidase;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG2116 formate transmembrane transporter activity;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG2216 One of the components of the high-affinity ATP-driven potassium transport (or KDP) system, which catalyzes the hydrolysis of ATP coupled with the exchange of hydrogen and potassium ions (By similarity);",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG2217 p-type ATPase;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG2223 Transporter;",2
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG2382 esterase;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG2822 lipoprotein;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG3638 (ABC) transporter;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG4771 receptor;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;COG4772 receptor;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;ENOG410XNNC ATPase, Ca transporting, plasma membrane;",2
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;ENOG410XNNV TonB dependent receptor;",5
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;ENOG410XNNX drug resistance transporter, Bcr CflA;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;ENOG410XQKN TonB-dependent receptor;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;ENOG410XQZX drug resistance transporter emrb qaca subfamily;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;ENOG410XR5J Efflux transporter rnd family, mfp subunit;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;ENOG410XSH3 receptor;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;ENOG410ZUAG ABC-type transport system involved in multi-copper enzyme maturation permease component;",1
+"eggNOG;metabolism;[P] Inorganic ion transport and metabolism;ENOG410ZVC8 drug resistance transporter emrb qaca subfamily;",1
+"eggNOG;metabolism;[Q] Secondary metabolites biosynthesis, transport and catabolism;COG0179 Fumarylacetoacetate hydrolase;",3
+"eggNOG;metabolism;[Q] Secondary metabolites biosynthesis, transport and catabolism;COG0318 Amp-dependent synthetase and ligase;",1
+"eggNOG;metabolism;[Q] Secondary metabolites biosynthesis, transport and catabolism;COG0412 dienelactone hydrolase;",1
+"eggNOG;metabolism;[Q] Secondary metabolites biosynthesis, transport and catabolism;COG0500 Methyltransferase;",1
+"eggNOG;metabolism;[Q] Secondary metabolites biosynthesis, transport and catabolism;COG1020 non-ribosomal peptide synthetase;",2
+"eggNOG;metabolism;[Q] Secondary metabolites biosynthesis, transport and catabolism;COG2124 Cytochrome p450;",6
+"eggNOG;metabolism;[Q] Secondary metabolites biosynthesis, transport and catabolism;COG2132 Multicopper oxidase;",2
+"eggNOG;metabolism;[Q] Secondary metabolites biosynthesis, transport and catabolism;COG3321 synthase;",1
+"eggNOG;metabolism;[Q] Secondary metabolites biosynthesis, transport and catabolism;COG3458 acetyl xylan esterase;",2
+"eggNOG;metabolism;[Q] Secondary metabolites biosynthesis, transport and catabolism;COG3485 protocatechuate 3,4-dioxygenase;",2
+"eggNOG;metabolism;[Q] Secondary metabolites biosynthesis, transport and catabolism;COG3733 amine oxidase;",1
+"eggNOG;metabolism;[Q] Secondary metabolites biosynthesis, transport and catabolism;COG4663 extracellular solute-binding protein, family 7;",2
+"eggNOG;metabolism;[Q] Secondary metabolites biosynthesis, transport and catabolism;COG4664 trap dicarboxylate transporter dctm subunit;",1
+"eggNOG;metabolism;[Q] Secondary metabolites biosynthesis, transport and catabolism;COG4665 Tripartite ATP-independent periplasmic transporter dctq component;",1
+"eggNOG;metabolism;[Q] Secondary metabolites biosynthesis, transport and catabolism;ENOG410XPD8 nonribosomal peptide;",1
