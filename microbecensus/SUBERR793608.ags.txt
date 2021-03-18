@@ -1,0 +1,13 @@
+Parameters
+metagenome:	./trimming/SUBERR793608_1.fq.gz,./trimming/SUBERR793608_2.fq.gz,./trimming/SUBERR793608_unpaired.fq.gz
+reads_sampled:	4157
+trimmed_length:	300
+min_quality:	-5
+mean_quality:	-5
+filter_dups:	False
+max_unknown:	100
+
+Results
+average_genome_size:	2650110.76683
+total_bases:	4583457
+genome_equivalents:	1.72953412264
