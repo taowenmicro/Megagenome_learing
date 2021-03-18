@@ -1,0 +1,21 @@
+Unknown option: gene
+Synopsis:
+  barrnap 0.9 - rapid ribosomal RNA prediction
+Author:
+  Torsten Seemann
+Usage:
+  barrnap [options] chr.fa
+  barrnap [options] < chr.fa
+  barrnap [options] - < chr.fa
+Options:
+  --help            This help
+  --version         Print version and exit
+  --citation        Print citation for referencing barrnap
+  --kingdom [X]     Kingdom: euk arc mito bac (default 'bac')
+  --quiet           No screen output (default OFF)
+  --threads [N]     Number of threads/cores/CPUs to use (default '1')
+  --lencutoff [n.n] Proportional length threshold to label as partial (default '0.8')
+  --reject [n.n]    Proportional length threshold to reject prediction (default '0.25')
+  --evalue [n.n]    Similarity e-value cut-off (default '1e-06')
+  --incseq          Include FASTA _input_ sequences in GFF3 output (default OFF)
+  --outseq [X]      Save rRNA hit seqs to this FASTA file (default '')
