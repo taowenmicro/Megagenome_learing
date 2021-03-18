@@ -1,0 +1,5 @@
+NODEcontig1486_length_434_cov_0.723127_1
+NODEcontig1459_length_435_cov_0.698052_1
+NODEcontig1381_length_438_cov_0.755627_1
+NODEcontig1381_length_438_cov_0.755627_2
+NODEcontig760_length_471_cov_0.773256_1

@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NODEcontig1486_length_434_cov_0.723127_1 -          Ribosomal_L4         PF00573.17   1.6e-47  158.0   0.7   1.7e-47  157.9   0.7   1.0   1   0   0   1   1   1   1 -
+NODEcontig1459_length_435_cov_0.698052_1 -          TIGR00060            TIGR00060    1.3e-28   96.0   0.3   1.5e-28   95.8   0.3   1.0   1   0   0   1   1   1   1 -
+NODEcontig1381_length_438_cov_0.755627_1 -          TIGR00158            TIGR00158    4.4e-17   59.3   0.1   4.6e-17   59.2   0.1   1.0   1   0   0   1   1   1   1 -
+NODEcontig1381_length_438_cov_0.755627_2 -          TIGR00165            TIGR00165      3e-34  113.4   0.7   3.6e-34  113.2   0.7   1.1   1   0   0   1   1   1   1 -
+NODEcontig760_length_471_cov_0.773256_1 -          TIGR00234            TIGR00234    2.3e-58  194.5   0.0   2.6e-58  194.3   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/wentao/sra/multi-metagenome/R.data.generation/essential.hmm
+# Target file:     ./mmgenome/spades/S/longreads/orfs.clean.faa
+# Option settings: hmmsearch --tblout ./mmgenome/spades/S/longreads/assembly.hmm.orfs.txt --notextw --cut_tc /home/wentao/sra/multi-metagenome/R.data.generation/essential.hmm ./mmgenome/spades/S/longreads/orfs.clean.faa 
+# Current dir:     /home/wentao/Desktop/Shared_Folder/metagenome_owe/Megagenome_learing
+# Date:            Sun Mar  7 19:12:21 2021
+# [ok]

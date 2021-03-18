@@ -1,0 +1,16 @@
+scaffold orf hmm.id
+NODEcontig1486 length_434_cov_0.723127_1 PF00573.17
+NODEcontig1459 length_435_cov_0.698052_1 TIGR00060
+NODEcontig1381 length_438_cov_0.755627_1 TIGR00158
+NODEcontig1381 length_438_cov_0.755627_2 TIGR00165
+NODEcontig760 length_471_cov_0.773256_1 TIGR00234
+#
+#
+# (Nov
+# SEARCH
+# /home/wentao/sra/multi-metagenome/R.data.generation/essential.hmm
+# ./mmgenome/spades/S/longreads/orfs.clean.faa
+# hmmsearch
+# /home/wentao/Desktop/Shared Folder/metagenome_owe/Megagenome_learing
+# Mar
+#
